@@ -8,8 +8,6 @@ Cyclistic Analysis/
 
 ├── output/              # Tableau-ready CSV outputs
 
-├── tableau/             # Tableau workbook and supporting files
-
 ├── data/                # Raw Divvy files; not included in the repository
 
 ├── Cyclistic Rider Behavior Analysis.twbx  # Extracted data portable workbook
