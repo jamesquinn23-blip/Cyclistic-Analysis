@@ -1,1 +1,0 @@
-# Current takeaways - Bike Types
