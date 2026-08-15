@@ -23,5 +23,5 @@ WHERE trip_duration_seconds > 86400;
 SELECT
     COUNT(*) AS row_count,
     COUNT(*) FILTER(trip_duration_seconds <= 60) AS minute_or_less,
-    COUNT(*) FILTER(trip_duration_seconds > 86400) AS '24_hours_or_more'
+    COUNT(*) FILTER(trip_duration_seconds > 86400) AS 'over_24_hours'
 FROM trips_dated;

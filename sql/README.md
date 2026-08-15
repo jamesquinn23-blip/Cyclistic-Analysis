@@ -108,7 +108,7 @@ sentences per decision is enough.
 
 - **Rides lasting 60 seconds or less:**  Rides lasting 60 seconds or less were excluded because they were unlikely to represent substantive bike-share trips. The same duration-based rule was applied to both rider types.
 
-- **Rides lasting 24 hours or more:** Rides lasting 24 hours or more were excluded as extreme-duration observations unlikely to represent ordinary bike-share use. The data did not establish the cause of these durations, and the same threshold was applied to both rider types.
+- **Rides lasting over 24 hours:** Rides lasting over 24 hours were excluded as extreme-duration observations unlikely to represent ordinary bike-share use. The data did not establish the cause of these durations, and the same threshold was applied to both rider types.
 
 
 
@@ -159,7 +159,7 @@ Associated validation files:
 
   
 
-Narrower duration bands were introduced because the broad under-one-hour category contained approximately 93% of casual rides and more than 99% of member rides, concealing differences
+Narrower duration bands were introduced because the broad under-one-hour category contained 95.49% of casual rides and more than 99% of member rides, concealing differences
 within that range. The finer bands showed a consistent divergence around 15 minutes: on every weekday, rides lasting 15 minutes or longer represented a larger share of casual rides than member
 rides. Therefore, 15 minutes was selected as the summary boundary in Tableau.
 
@@ -218,7 +218,7 @@ Associated `14.1_validation_*.sql` files test:
 - 761 unique directed pairs in the qualifying-pair output.
 
 
-Trips were represented as directed station pairs for the analysis because the data only contains the recorded start and end station and coordinates, not higher-resolution data like GPS traces of the paths riders followed. Further, direction was preserved because travel from Station A to Station B may or may not represent distinct behavior from Station B to Station A. Additionally, the 10% threshold provided a consistent benchmark for comparing how concentrated each rider type's activity was among its busiest directed pairs without attempting to display every pair in the dataset. Finally, rides beginning and ending at the same named station were described as **same-station rides** , not round trips, because matching endpoints do not reveal the route taken or prove the rider completed a circuit.
+Trips were represented as directed station pairs for the analysis because the data only contains the recorded start and end station and coordinates, not higher-resolution data like GPS traces of the paths riders followed. Further, direction was preserved because Station A → Station B and Station B → Station A describe different observed movements through space, even though the data cannot establish trip purpose or the path traveled. Additionally, the 10% threshold provided a consistent benchmark for comparing how concentrated each rider type's activity was among its busiest directed pairs without attempting to display every pair in the dataset. Finally, rides beginning and ending at the same named station were described as **same-station rides** , not round trips, because matching endpoints do not reveal the route taken or prove the rider completed a circuit.
   
 
 ## Validation approach

@@ -12,7 +12,11 @@ Cyclistic Analysis/
 
 ├── data/                # Raw Divvy files; not included in the repository
 
+├── Cyclistic Presentation Workbook(extracted data).twbx  # Extracted data portable workbook
+
 └── database/            # Local DuckDB files; not included in the repository
+
+For the complete SQL workflow, script order, validation methods, and analytical decisions, see the [SQL documentation](sql/README.md).
 
 ## Project Overview
 
@@ -108,7 +112,6 @@ Further, to increase the return-on-investment of these types of campaigns, we sh
 5. Promotion exposure
 6. Membership conversion outcome
 
-Ideally, we would measure campaign exposure or treatment
 
 ## Limitations
 

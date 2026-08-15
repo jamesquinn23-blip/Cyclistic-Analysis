@@ -1,7 +1,7 @@
 -- Purpose: compare ride-duration distributions by weekday and rider type.
 -- Grain: one row per weekday, rider type, and duration band.
 -- Duration bands: under 1 hour, 1–<2 hours, 2–<3 hours, and 3+ hours.
--- The 3+ hour band ends below 24 hours because rides of 24+ hours were excluded.
+-- The 3+ hour band includes rides lasting up to and including 24 hours; rides longer than 24 hours were excluded.
 -- Percentage denominator: all rides for the same weekday and rider type.
 -- Expected rows: 56 (7 weekdays × 2 rider types × 4 duration bands).
 -- Expected sum of ride_count: 5,764,481.
