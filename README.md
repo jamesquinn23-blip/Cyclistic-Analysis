@@ -10,8 +10,6 @@ Cyclistic Analysis/
 
 ├── tableau/             # Tableau workbook and supporting files
 
-├── notes/               # Exploratory analysis notes
-
 ├── data/                # Raw Divvy files; not included in the repository
 
 └── database/            # Local DuckDB files; not included in the repository
