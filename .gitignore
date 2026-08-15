@@ -1,0 +1,18 @@
+# Large raw data and local database
+data/
+database/
+
+# Tableau extracts already packaged in the workbook
+tableau/Datasources/
+
+# Tableau temporary and recovery files
+*.twbr
+~*
+
+# DuckDB temporary files
+*.wal
+*.tmp
+
+# Google Drive files
+.tmp.drivedownload/
+.tmp.driveupload/

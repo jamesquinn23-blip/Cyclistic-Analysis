@@ -1,0 +1,1523 @@
+start_station,end_station,ride_type,route_percent_x_rider_type,running_count,total_count
+Navy Pier,Navy Pier,casual,0.6376736074263762,8713,1366373
+DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,casual,0.449730783614723,14858,1366373
+DuSable Lake Shore Dr & Monroe St,Navy Pier,casual,0.3482943530060972,19617,1366373
+Michigan Ave & Oak St,Michigan Ave & Oak St,casual,0.28974518670963195,23576,1366373
+Millennium Park,Millennium Park,casual,0.1780626519991247,26009,1366373
+Navy Pier,DuSable Lake Shore Dr & Monroe St,casual,0.17630617701023074,28418,1366373
+Dusable Harbor,Dusable Harbor,casual,0.16832885310233736,30718,1366373
+Shedd Aquarium,DuSable Lake Shore Dr & Monroe St,casual,0.1511300355027507,32783,1366373
+Navy Pier,DuSable Lake Shore Dr & North Blvd,casual,0.1385419647490107,34676,1366373
+Navy Pier,Theater on the Lake,casual,0.13246748874575245,36486,1366373
+Shedd Aquarium,Navy Pier,casual,0.1290277252258351,38249,1366373
+DuSable Lake Shore Dr & Monroe St,Shedd Aquarium,casual,0.12595389399527068,39970,1366373
+DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & North Blvd,casual,0.1258807075374001,41690,1366373
+Dusable Harbor,Navy Pier,casual,0.12544158879017664,43404,1366373
+Navy Pier,Millennium Park,casual,0.12449016483785907,45105,1366373
+Ellis Ave & 60th St,Ellis Ave & 55th St,member,0.12268398948287654,3109,2534153
+Ellis Ave & 55th St,Ellis Ave & 60th St,member,0.1194481943276511,6136,2534153
+Montrose Harbor,Montrose Harbor,casual,0.11643965447209512,46696,1366373
+Shedd Aquarium,Shedd Aquarium,casual,0.11578097635125988,48278,1366373
+Adler Planetarium,Adler Planetarium,casual,0.11234121283134255,49813,1366373
+Theater on the Lake,Theater on the Lake,casual,0.1085355170220723,51296,1366373
+Navy Pier,Michigan Ave & Oak St,casual,0.10846233056420172,52778,1366373
+Michigan Ave & 8th St,Michigan Ave & 8th St,casual,0.1053153128757667,54217,1366373
+DuSable Lake Shore Dr & North Blvd,Navy Pier,casual,0.09770392125722624,55552,1366373
+Michigan Ave & Oak St,Navy Pier,casual,0.09770392125722624,56887,1366373
+Millennium Park,Navy Pier,casual,0.09697205667852044,58212,1366373
+DuSable Lake Shore Dr & Monroe St,Dusable Harbor,casual,0.09587425981046171,59522,1366373
+Theater on the Lake,Navy Pier,casual,0.09280042857989729,60790,1366373
+Streeter Dr & Grand Ave,Streeter Dr & Grand Ave,casual,0.09148307233822682,62040,1366373
+Ellis Ave & 60th St,University Ave & 57th St,member,0.09107579534463783,8444,2534153
+Navy Pier,Shedd Aquarium,casual,0.08862880048127415,63251,1366373
+University Ave & 57th St,Ellis Ave & 60th St,member,0.08843191393731949,10685,2534153
+Ellis Ave & 60th St,Ellis Ave & 55th St,casual,0.07940730678958088,64336,1366373
+Chicago Ave & Sheridan Rd,Sheridan Rd & Noyes St (NU),casual,0.07867544221087507,65411,1366373
+Sheridan Rd & Noyes St (NU),Chicago Ave & Sheridan Rd,casual,0.07552842452244006,66443,1366373
+Indiana Ave & Roosevelt Rd,Indiana Ave & Roosevelt Rd,casual,0.07472337348586366,67464,1366373
+Dusable Harbor,DuSable Lake Shore Dr & Monroe St,casual,0.07413788182289902,68477,1366373
+Michigan Ave & Oak St,Theater on the Lake,casual,0.07406469536502844,69489,1366373
+Ellis Ave & 55th St,Ellis Ave & 60th St,casual,0.06916120268769947,70434,1366373
+DuSable Lake Shore Dr & Monroe St,Adler Planetarium,casual,0.06894164331408772,71376,1366373
+Shedd Aquarium,Millennium Park,casual,0.06842933810899367,72311,1366373
+DuSable Lake Shore Dr & Monroe St,Michigan Ave & Oak St,casual,0.0679170329038996,73239,1366373
+Adler Planetarium,DuSable Lake Shore Dr & Monroe St,casual,0.06491638813120576,74126,1366373
+Michigan Ave & Lake St,Michigan Ave & Lake St,casual,0.06367221834740587,74996,1366373
+DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,casual,0.06337947251592355,75862,1366373
+Adler Planetarium,Navy Pier,casual,0.06279398085295888,76720,1366373
+Field Museum,DuSable Lake Shore Dr & Monroe St,casual,0.06059838711684145,77548,1366373
+Lakefront Trail & Wilson Ave,Lakefront Trail & Wilson Ave,casual,0.06015926836961796,78370,1366373
+Blackstone Ave & 59th St,University Ave & 57th St,member,0.05938867937334486,12190,2534153
+DuSable Lake Shore Dr & Monroe St,Field Museum,casual,0.05898828504368865,79176,1366373
+Michigan Ave & Oak St,DuSable Lake Shore Dr & Monroe St,casual,0.058695539212206334,79978,1366373
+Field Museum,Navy Pier,casual,0.05818323400711226,80773,1366373
+Columbus Dr & Randolph St,Columbus Dr & Randolph St,casual,0.05811004754924168,81567,1366373
+Michigan Ave & Washington St,Michigan Ave & Washington St,casual,0.05767092880201819,82355,1366373
+McClurg Ct & Ohio St,McClurg Ct & Ohio St,casual,0.05737818297053587,83139,1366373
+New St & Illinois St,New St & Illinois St,casual,0.05715862359692412,83920,1366373
+Shore Dr & 55th St,Shore Dr & 55th St,casual,0.05628038610247714,84689,1366373
+Field Museum,Field Museum,casual,0.05591445381312424,85453,1366373
+University Ave & 57th St,Blackstone Ave & 59th St,member,0.055758275052848034,13603,2534153
+Navy Pier,Wabash Ave & Grand Ave,casual,0.05496302986080667,86204,1366373
+Wabash Ave & Grand Ave,Wabash Ave & Grand Ave,casual,0.05364567361913621,86937,1366373
+DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & Monroe St,casual,0.05335292778765389,87666,1366373
+University Ave & 57th St,Kimbark Ave & 53rd St,member,0.052759245396785434,14940,2534153
+Michigan Ave & 8th St,Millennium Park,casual,0.05174282571450109,88373,1366373
+Theater on the Lake,Michigan Ave & Oak St,casual,0.05108414759366586,89071,1366373
+Millennium Park,DuSable Lake Shore Dr & Monroe St,casual,0.05035228301496005,89759,1366373
+Michigan Ave & Oak St,DuSable Lake Shore Dr & North Blvd,casual,0.04962041843625423,90437,1366373
+DuSable Lake Shore Dr & Monroe St,Millennium Park,casual,0.04954723197838365,91114,1366373
+Field Museum,Millennium Park,casual,0.04896174031541899,91783,1366373
+DuSable Lake Shore Dr & Diversey Pkwy,DuSable Lake Shore Dr & Diversey Pkwy,casual,0.04844943511032493,92445,1366373
+Lakefront Trail & Bryn Mawr Ave,Lakefront Trail & Bryn Mawr Ave,casual,0.04786394344736027,93099,1366373
+Millennium Park,Shedd Aquarium,casual,0.04779075698948969,93752,1366373
+Shedd Aquarium,Dusable Harbor,casual,0.04749801115800737,94401,1366373
+University Ave & 57th St,Lake Park Ave & 56th St,member,0.04735309983256733,16140,2534153
+Morgan St & Polk St,Loomis St & Lexington St,member,0.046997951583823076,17331,2534153
+Kimbark Ave & 53rd St,University Ave & 57th St,member,0.0469190297507688,18520,2534153
+Loomis St & Lexington St,Morgan St & Polk St,member,0.045853585004536034,19682,2534153
+Michigan Ave & Jackson Blvd,Michigan Ave & Jackson Blvd,casual,0.04566834971124283,95025,1366373
+Ellis Ave & 60th St,University Ave & 57th St,casual,0.045595163253372255,95648,1366373
+DuSable Lake Shore Dr & Monroe St,Theater on the Lake,casual,0.04486329867466643,96261,1366373
+Ellis Ave & 55th St,Kimbark Ave & 53rd St,member,0.04431460925997759,20805,2534153
+Lincoln Park Conservatory,Lincoln Park Conservatory,casual,0.04354594243299597,96856,1366373
+Michigan Ave & 8th St,Navy Pier,casual,0.043106823685772476,97445,1366373
+Theater on the Lake,DuSable Lake Shore Dr & Monroe St,casual,0.042960450770031314,98032,1366373
+Kimbark Ave & 53rd St,Ellis Ave & 55th St,member,0.04167072785265925,21861,2534153
+Sheridan Rd & Noyes St (NU),Benson Ave & Church St,casual,0.0410576028653962,98593,1366373
+Chicago Ave & Sheridan Rd,Chicago Ave & Sheridan Rd,casual,0.0410576028653962,99154,1366373
+Theater on the Lake,DuSable Lake Shore Dr & North Blvd,casual,0.04076485703391387,99711,1366373
+Cityfront Plaza Dr & Pioneer Ct,Cityfront Plaza Dr & Pioneer Ct,casual,0.0398866195394669,100256,1366373
+Navy Pier,Michigan Ave & 8th St,casual,0.039520687250113984,100796,1366373
+DuSable Lake Shore Dr & North Blvd,Michigan Ave & Oak St,casual,0.039520687250113984,101336,1366373
+Navy Pier,Dusable Harbor,casual,0.039301127876502244,101873,1366373
+Clark St & Lincoln Ave,Clark St & Lincoln Ave,casual,0.039301127876502244,102410,1366373
+Field Blvd & South Water St,Field Blvd & South Water St,casual,0.03915475496076108,102945,1366373
+Lake Park Ave & 56th St,University Ave & 57th St,member,0.039066307361868044,22851,2534153
+Dusable Harbor,DuSable Lake Shore Dr & North Blvd,casual,0.038935195587149335,103477,1366373
+University Ave & 57th St,Ellis Ave & 60th St,casual,0.03813014455057294,103998,1366373
+Canal St & Madison St,LaSalle St & Jackson Blvd,member,0.037882479866053864,23811,2534153
+University Ave & 57th St,Kimbark Ave & 53rd St,casual,0.03776421226122003,104514,1366373
+Loomis St & Lexington St,Wolcott Ave & Polk St,member,0.037764097116472446,24768,2534153
+DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,casual,0.03725190705612596,105023,1366373
+Griffin Museum of Science and Industry,Griffin Museum of Science and Industry,casual,0.03695916122464364,105528,1366373
+Navy Pier,Adler Planetarium,casual,0.03644685601954957,106026,1366373
+DuSable Lake Shore Dr & Monroe St,Burnham Harbor,casual,0.03644685601954957,106524,1366373
+Chicago Ave & Sheridan Rd,Sheridan Rd & Noyes St (NU),member,0.036343504121495424,25689,2534153
+Dusable Harbor,Shedd Aquarium,casual,0.03630048310380841,107020,1366373
+Columbus Dr & Randolph St,Navy Pier,casual,0.036007737272326076,107512,1366373
+Sheridan Rd & Noyes St (NU),Chicago Ave & Sheridan Rd,member,0.035751590373588334,26595,2534153
+University Ave & 57th St,Ellis Ave & 53rd St,member,0.03559374670747977,27497,2534153
+Fort Dearborn Dr & 31st St*,Fort Dearborn Dr & 31st St*,casual,0.035495432067232005,107997,1366373
+McCormick Place,McCormick Place,casual,0.035495432067232005,108482,1366373
+Navy Pier,Michigan Ave & Washington St,casual,0.03534905915149084,108965,1366373
+DuSable Lake Shore Dr & Wellington Ave,DuSable Lake Shore Dr & Wellington Ave,casual,0.03483675394639677,109441,1366373
+Wolcott Ave & Polk St,Loomis St & Lexington St,member,0.03440991921166559,28369,2534153
+Buckingham Fountain,Buckingham Fountain,casual,0.03425126228343212,109909,1366373
+Benson Ave & Church St,Sheridan Rd & Noyes St (NU),member,0.03405477096292134,29232,2534153
+Lincoln Park Conservatory,Navy Pier,casual,0.03403170290982038,110374,1366373
+Fairbanks Ct & Grand Ave,Fairbanks Ct & Grand Ave,casual,0.03403170290982038,110839,1366373
+Sheffield Ave & Fullerton Ave,Greenview Ave & Fullerton Ave,member,0.03385746638028564,30090,2534153
+Benson Ave & Church St,Sheridan Rd & Noyes St (NU),casual,0.03351939770472631,111297,1366373
+Kimbark Ave & 53rd St,University Ave & 57th St,casual,0.033299838331114565,111752,1366373
+DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Belmont Ave,casual,0.03322665187324398,112206,1366373
+Navy Pier,Lincoln Park Conservatory,casual,0.03322665187324398,112660,1366373
+Ellis Ave & 53rd St,University Ave & 57th St,member,0.033226091715851405,30932,2534153
+Navy Pier,Fairbanks Ct & Grand Ave,casual,0.03286071958389108,113109,1366373
+Navy Pier,Navy Pier,member,0.032713099800998596,31761,2534153
+Shedd Aquarium,Michigan Ave & Jackson Blvd,casual,0.032567973752408746,113554,1366373
+Ellis Ave & 58th St,Ellis Ave & 60th St,member,0.03235795155225434,32581,2534153
+Dusable Harbor,Theater on the Lake,casual,0.032202041463055844,113994,1366373
+Indiana Ave & Roosevelt Rd,Navy Pier,casual,0.032055668547314675,114432,1366373
+Ravenswood Ave & Lawrence Ave,Clark St & Winnemac Ave,member,0.031963342386982944,33391,2534153
+Stetson Ave & South Water St,Stetson Ave & South Water St,casual,0.031836109173702935,114867,1366373
+Clark St & Winnemac Ave,Ravenswood Ave & Lawrence Ave,member,0.031726576887820115,34195,2534153
+Shedd Aquarium,Indiana Ave & Roosevelt Rd,casual,0.03168973625796177,115300,1366373
+DuSable Lake Shore Dr & Monroe St,Indiana Ave & Roosevelt Rd,casual,0.03139699042647944,115729,1366373
+Michigan Ave & Washington St,Navy Pier,casual,0.03110424459499712,116154,1366373
+Clark St & Armitage Ave,Clark St & Armitage Ave,casual,0.03095787167925596,116577,1366373
+Loomis St & Lexington St,Halsted St & Polk St,member,0.030897897640750183,34978,2534153
+Sheffield Ave & Fullerton Ave,Southport Ave & Wrightwood Ave,member,0.030818975807695905,35759,2534153
+Southport Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,member,0.030740053974641628,36538,2534153
+Michigan Ave & Ida B Wells Dr,Michigan Ave & Ida B Wells Dr,casual,0.030738312305644215,116997,1366373
+Mies van der Rohe Way & Chestnut St,Mies van der Rohe Way & Chestnut St,casual,0.03066512584777363,117416,1366373
+University Ave & 57th St,Ellis Ave & 55th St,member,0.03054274939200593,37312,2534153
+Halsted St & Polk St,Loomis St & Lexington St,member,0.030108679310207394,38075,2534153
+Navy Pier,DuSable Lake Shore Dr & Diversey Pkwy,casual,0.03007963418480898,117827,1366373
+Burnham Harbor,DuSable Lake Shore Dr & Monroe St,casual,0.030006447726938397,118237,1366373
+Navy Pier,Field Museum,casual,0.029420956063973748,118639,1366373
+Sheridan Rd & Noyes St (NU),Benson Ave & Church St,member,0.029398382812718882,38820,2534153
+Cannon Dr & Fullerton Ave,Cannon Dr & Fullerton Ave,casual,0.029347769606103167,119040,1366373
+Dusable Harbor,Michigan Ave & Oak St,casual,0.029347769606103167,119441,1366373
+Ellis Ave & 53rd St,Ellis Ave & 55th St,member,0.029280000063137468,39562,2534153
+LaSalle St & Jackson Blvd,Canal St & Madison St,member,0.029280000063137468,40304,2534153
+Dusable Harbor,Millennium Park,casual,0.02912821023249142,119839,1366373
+Indiana Ave & Roosevelt Rd,Millennium Park,casual,0.02912821023249142,120237,1366373
+Wells St & Concord Ln,Wells St & Elm St,member,0.029122156397028906,41042,2534153
+Navy Pier,Indiana Ave & Roosevelt Rd,casual,0.02905502377462084,120634,1366373
+Blackstone Ave & 59th St,University Ave & 59th St,member,0.02900377364744749,41777,2534153
+Burnham Harbor,Burnham Harbor,casual,0.02898183731675026,121030,1366373
+University Ave & 59th St,Blackstone Ave & 59th St,member,0.02884592998133893,42508,2534153
+Indiana Ave & Roosevelt Rd,Shedd Aquarium,casual,0.028835464401009096,121424,1366373
+DuSable Lake Shore Dr & North Blvd,Dusable Harbor,casual,0.028835464401009096,121818,1366373
+Ellis Ave & 60th St,Ellis Ave & 58th St,member,0.028648625398703234,43234,2534153
+New St & Illinois St,Navy Pier,casual,0.02861590502739735,122209,1366373
+Adler Planetarium,Millennium Park,casual,0.028542718569526768,122599,1366373
+Wabash Ave & Wacker Pl,Wabash Ave & Wacker Pl,casual,0.028396345653785605,122987,1366373
+Wells St & Elm St,Wells St & Concord Ln,member,0.0282145553169047,43949,2534153
+Ellis Ave & 55th St,Kimbark Ave & 53rd St,casual,0.02795722690656212,123369,1366373
+Canal St & Madison St,Michigan Ave & Washington St,member,0.027938328901214723,44657,2534153
+Broadway & Berwyn Ave,Clark St & Berwyn Ave,member,0.027938328901214723,45365,2534153
+Sheridan Rd & Buena Ave,Sheridan Rd & Irving Park Rd,member,0.027859407068160445,46071,2534153
+Pine Grove Ave & Waveland Ave,Pine Grove Ave & Waveland Ave,casual,0.027810853990820956,123749,1366373
+Clark St & Berwyn Ave,Broadway & Berwyn Ave,member,0.02770156340205189,46773,2534153
+Wabash Ave & Roosevelt Rd,Wabash Ave & 16th St,member,0.027662102485524746,47474,2534153
+Michigan Ave & Lake St,Columbus Dr & Randolph St,member,0.02758318065247047,48173,2534153
+Woodlawn Ave & 58th St,Kimbark Ave & 53rd St,member,0.027109649654144797,48860,2534153
+Michigan Ave & Jackson Blvd,Navy Pier,casual,0.027078989412115142,124119,1366373
+Millennium Park,Michigan Ave & Oak St,casual,0.027078989412115142,124489,1366373
+Lake Park Ave & 35th St,Lake Park Ave & 35th St,casual,0.027078989412115142,124859,1366373
+Wabash Ave & Roosevelt Rd,Wabash Ave & Roosevelt Rd,casual,0.027005802954244557,125228,1366373
+Shedd Aquarium,Michigan Ave & Oak St,casual,0.027005802954244557,125597,1366373
+Marine Dr & Ainslie St,Marine Dr & Ainslie St,casual,0.026786243580632814,125963,1366373
+Adler Planetarium,Shedd Aquarium,casual,0.026786243580632814,126329,1366373
+Kimbark Ave & 53rd St,Ellis Ave & 55th St,casual,0.02663987066489165,126693,1366373
+Calumet Ave & 33rd St,State St & 33rd St,member,0.026478274989710567,49531,2534153
+Clinton St & Jackson Blvd,Clinton St & Lake St,member,0.026399353156656286,50200,2534153
+Wabash Ave & Grand Ave,Navy Pier,casual,0.026347124833409324,127053,1366373
+Kimbark Ave & 53rd St,Woodlawn Ave & 58th St,member,0.02620204857402059,50864,2534153
+LaSalle St & Illinois St,LaSalle St & Illinois St,casual,0.02620075191766816,127411,1366373
+Wabash Ave & 9th St,Wabash Ave & 9th St,casual,0.02612756545979758,127768,1366373
+Navy Pier,DuSable Lake Shore Dr & Belmont Ave,casual,0.026054379001927003,128124,1366373
+Loomis St & Lexington St,Morgan St & Polk St,casual,0.026054379001927003,128480,1366373
+DuSable Lake Shore Dr & North Blvd,Theater on the Lake,casual,0.026054379001927003,128836,1366373
+Calumet Ave & 18th St,Calumet Ave & 18th St,casual,0.026054379001927003,129192,1366373
+Ellis Ave & 55th St,Ellis Ave & 53rd St,member,0.025767978492222055,51517,2534153
+Michigan Ave & Oak St,DuSable Lake Shore Dr & Belmont Ave,casual,0.02568844671257409,129543,1366373
+Broadway & Belmont Ave,Wilton Ave & Belmont Ave,member,0.025649595742640637,52167,2534153
+Cityfront Plaza Dr & Pioneer Ct,Navy Pier,casual,0.025468887338962347,129891,1366373
+McClurg Ct & Erie St,McClurg Ct & Erie St,casual,0.025322514423221185,130237,1366373
+Millennium Park,Adler Planetarium,casual,0.025322514423221185,130583,1366373
+State St & 33rd St,Calumet Ave & 33rd St,member,0.025254986577369246,52807,2534153
+Clark St & Armitage Ave,Navy Pier,casual,0.025176141507480026,130927,1366373
+Michigan Ave & Oak St,Millennium Park,casual,0.025176141507480026,131271,1366373
+Navy Pier,Michigan Ave & Jackson Blvd,casual,0.02502976859173886,131613,1366373
+Shedd Aquarium,Michigan Ave & 8th St,casual,0.024956582133868276,131954,1366373
+Navy Pier,Michigan Ave & Lake St,casual,0.024810209218127113,132293,1366373
+Wells St & 19th St,Wells St & 19th St,casual,0.024663836302385955,132630,1366373
+McClurg Ct & Ohio St,Navy Pier,casual,0.024663836302385955,132967,1366373
+Indiana Ave & Roosevelt Rd,DuSable Lake Shore Dr & Monroe St,casual,0.02459064984451537,133303,1366373
+Halsted St & Maxwell St,Halsted St & Polk St,casual,0.02459064984451537,133639,1366373
+Millennium Park,Field Museum,casual,0.02451746338664479,133974,1366373
+Millennium Park,Michigan Ave & 8th St,casual,0.02451746338664479,134309,1366373
+Broadway & Waveland Ave,Sheridan Rd & Montrose Ave,member,0.024505229163353594,53428,2534153
+Ellis Ave & 55th St,Shore Dr & 55th St,member,0.024426307330299317,54047,2534153
+Sheridan Rd & Noyes St (NU),Sheridan Rd & Noyes St (NU),casual,0.024371090470903627,134642,1366373
+DuSable Lake Shore Dr & Monroe St,Michigan Ave & 8th St,casual,0.024297904013033046,134974,1366373
+Kingsbury St & Erie St,Kingsbury St & Kinzie St,member,0.024229002747663618,54661,2534153
+Blackstone Ave & 59th St,University Ave & 57th St,casual,0.024224717555162464,135305,1366373
+Ellis Ave & 55th St,University Ave & 57th St,member,0.02418954183113648,55274,2534153
+Shore Dr & 55th St,University Ave & 57th St,member,0.024150080914609337,55886,2534153
+Shore Dr & 55th St,Ellis Ave & 55th St,member,0.0241106199980822,56497,2534153
+DuSable Lake Shore Dr & Belmont Ave,Navy Pier,casual,0.024005158181550718,135633,1366373
+Michigan Ave & 8th St,Shedd Aquarium,casual,0.024005158181550718,135961,1366373
+Southport Ave & Roscoe St,Southport Ave & Waveland Ave,member,0.023716010832810806,57098,2534153
+Navy Pier,Clark St & Lincoln Ave,casual,0.023712412350068393,136285,1366373
+Navy Pier,McClurg Ct & Ohio St,casual,0.023639225892197812,136608,1366373
+Ashland Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,member,0.023637088999756528,57697,2534153
+Broadway & Cornelia Ave,Wilton Ave & Belmont Ave,member,0.023637088999756528,58296,2534153
+Walsh Park,Walsh Park,casual,0.02341966651858607,136928,1366373
+Broadway & Waveland Ave,Clarendon Ave & Gordon Ter,member,0.02340032350059369,58889,2534153
+DuSable Lake Shore Dr & Diversey Pkwy,Michigan Ave & Oak St,casual,0.02312692068710374,138517,1366373
+Clarendon Ave & Gordon Ter,Clarendon Ave & Gordon Ter,member,0.023124097084903712,59475,2534153
+Ellis Ave & 60th St,University Ave & 59th St,member,0.023005714335322294,60058,2534153
+Wilton Ave & Belmont Ave,Broadway & Cornelia Ave,member,0.02284787066921374,60637,2534153
+Wells St & Huron St,Wells St & Elm St,casual,0.022760988397750835,139141,1366373
+Clinton St & Jackson Blvd,Clinton St & Madison St,member,0.02272948791963232,61213,2534153
+Ellis Ave & 58th St,Ellis Ave & 55th St,member,0.02272948791963232,61789,2534153
+Sheridan Rd & Irving Park Rd,Sheridan Rd & Buena Ave,member,0.022571644253523763,62361,2534153
+Wells St & Huron St,Wells St & Elm St,member,0.022571644253523763,62933,2534153
+Southport Ave & Waveland Ave,Southport Ave & Roscoe St,member,0.022492722420469482,63503,2534153
+Michigan Ave & Oak St,DuSable Lake Shore Dr & Diversey Pkwy,casual,0.022468242566268507,139448,1366373
+DuSable Lake Shore Dr & Belmont Ave,Michigan Ave & Oak St,casual,0.022321869650527345,140059,1366373
+University Ave & 57th St,Shore Dr & 55th St,member,0.022295417837833786,64068,2534153
+University Ave & 57th St,Lake Park Ave & 56th St,casual,0.022248683192656764,140973,1366373
+Michigan Ave & Washington St,Canal St & Madison St,member,0.022137574171725224,64629,2534153
+Wabash Ave & Adams St,Canal St & Madison St,member,0.022137574171725224,65190,2534153
+Clinton St & Lake St,Clinton St & Jackson Blvd,member,0.02201919142214381,65748,2534153
+Ellis Ave & 60th St,Blackstone Ave & 59th St,member,0.02197973050561667,66305,2534153
+Woodlawn Ave & 55th St,University Ave & 57th St,member,0.02182188683950811,66858,2534153
+Pine Grove Ave & Irving Park Rd,Sheridan Rd & Irving Park Rd,member,0.021466738590763857,67402,2534153
+Wells St & Elm St,Wells St & Concord Ln,casual,0.021443632156080368,143659,1366373
+Clarendon Ave & Junior Ter,Broadway & Waveland Ave,member,0.0213088949246553,67942,2534153
+Montrose Harbor,Theater on the Lake,casual,0.021297259240339206,144243,1366373
+Sheffield Ave & Fullerton Ave,Greenview Ave & Fullerton Ave,casual,0.021077699866727462,144531,1366373
+University Ave & 57th St,Woodlawn Ave & 55th St,member,0.020953746675911045,68473,2534153
+Franklin St & Jackson Blvd,Canal St & Madison St,member,0.020914285759383904,69003,2534153
+Kimbark Ave & 53rd St,Ellis Ave & 60th St,casual,0.020858140493115716,146536,1366373
+Wells St & Elm St,Wells St & Huron St,member,0.020795903009802486,69530,2534153
+Montrose Harbor,Lakefront Trail & Bryn Mawr Ave,casual,0.020784954035245135,147105,1366373
+Greenview Ave & Fullerton Ave,Sheffield Ave & Fullerton Ave,member,0.020638059343693928,70053,2534153
+Columbus Dr & Randolph St,State St & Randolph St,member,0.020598598427166787,70575,2534153
+University Ave & 59th St,Ellis Ave & 60th St,member,0.020598598427166787,71097,2534153
+State St & Chicago Ave,Wells St & Huron St,member,0.020598598427166787,71619,2534153
+Elston Ave & Cortland St,Sheffield Ave & Kingsbury St,member,0.020598598427166787,72141,2534153
+Federal St & Polk St,Federal St & Polk St,casual,0.02049220820376281,148789,1366373
+University Ave & 59th St,Ellis Ave & 55th St,member,0.020401293844531092,72658,2534153
+Clinton St & Tilden St,Clinton St & Madison St,member,0.020401293844531092,73175,2534153
+Kingsbury St & Kinzie St,Clinton St & Washington Blvd,member,0.020282911094949674,73689,2534153
+Lake Park Ave & 56th St,University Ave & 57th St,casual,0.020199462372280486,149343,1366373
+Ellis Ave & 58th St,Kimbark Ave & 53rd St,member,0.020164528345368256,74200,2534153
+Drexel Ave & 60th St,University Ave & 57th St,member,0.02012506742884112,74710,2534153
+Ellis Ave & 60th St,Woodlawn Ave & 58th St,member,0.020006684679259697,75217,2534153
+Michigan Ave & 8th St,Michigan Ave & Jackson Blvd,casual,0.019906716540798158,151814,1366373
+Wabash Ave & Roosevelt Rd,Shedd Aquarium,casual,0.019906716540798158,152358,1366373
+Federal St & Polk St,Wabash Ave & Roosevelt Rd,member,0.01973045826356972,75717,2534153
+Kimbark Ave & 53rd St,Ellis Ave & 53rd St,member,0.01973045826356972,76217,2534153
+Pine Grove Ave & Irving Park Rd,Pine Grove Ave & Waveland Ave,member,0.01973045826356972,76717,2534153
+Sheridan Rd & Irving Park Rd,Pine Grove Ave & Irving Park Rd,member,0.019651536430515443,77713,2534153
+Montrose Harbor,Montrose Harbor,member,0.019651536430515443,77215,2534153
+University Ave & 57th St,Blackstone Ave & 59th St,casual,0.019613970709315833,154246,1366373
+Woodlawn Ave & 55th St,Kimbark Ave & 53rd St,member,0.019612075513988303,78210,2534153
+Wabash Ave & 16th St,Wabash Ave & Roosevelt Rd,member,0.019533153680934022,78705,2534153
+Shore Dr & 55th St,Ellis Ave & 60th St,member,0.019533153680934022,79200,2534153
+Ellis Ave & 55th St,Drexel Ave & 60th St,member,0.019454231847879744,79693,2534153
+Shore Dr & 55th St,Woodlawn Ave & 55th St,casual,0.019394411335704086,155578,1366373
+Sheffield Ave & Fullerton Ave,Southport Ave & Wrightwood Ave,casual,0.019394411335704086,155843,1366373
+State St & Chicago Ave,Clark St & Elm St,member,0.019375310014825467,80184,2534153
+Damen Ave & Foster Ave,Ravenswood Ave & Lawrence Ave,member,0.019375310014825467,80675,2534153
+Morgan St & Polk St,Loomis St & Lexington St,casual,0.019174851962092343,156630,1366373
+University Ave & 57th St,Drexel Ave & 60th St,member,0.01913854451566263,81160,2534153
+Wabash Ave & Roosevelt Rd,Calumet Ave & 18th St,member,0.018941239933026932,81640,2534153
+Woodlawn Ave & 58th St,Blackstone Ave & 59th St,member,0.018862318099972655,82118,2534153
+Blackstone Ave & 59th St,Ellis Ave & 60th St,member,0.018743935350391237,82593,2534153
+University Ave & 57th St,Shore Dr & 55th St,casual,0.018735733214868856,159223,1366373
+Kingsbury St & Kinzie St,Desplaines St & Kinzie St,member,0.018704474433864096,83067,2534153
+University Ave & 57th St,Cornell Ave & Hyde Park Blvd,member,0.018665013517336956,83540,2534153
+Woodlawn Ave & 55th St,Shore Dr & 55th St,casual,0.01866254675699827,159990,1366373
+Clarendon Ave & Gordon Ter,Broadway & Waveland Ave,member,0.018586091684282678,84011,2534153
+Wabash Ave & Roosevelt Rd,Michigan Ave & 14th St,member,0.018507169851228397,84480,2534153
+Broadway & Waveland Ave,Sheridan Rd & Irving Park Rd,member,0.018507169851228397,84949,2534153
+Kimbark Ave & 53rd St,Woodlawn Ave & 55th St,member,0.01846770893470126,85417,2534153
+Clark St & Elm St,Clark St & Elm St,casual,0.01844298738338653,161508,1366373
+Clark St & Wrightwood Ave,Sheffield Ave & Fullerton Ave,member,0.01842824801817412,85884,2534153
+University Ave & 57th St,University Ave & 57th St,casual,0.018296614467645366,162010,1366373
+Ravenswood Ave & Berteau Ave,Ravenswood Ave & Lawrence Ave,member,0.01827040435206556,86347,2534153
+Lake Park Ave & 53rd St,University Ave & 57th St,member,0.018191482519011284,86808,2534153
+Navy Pier,Theater on the Lake,member,0.018191482519011284,87269,2534153
+Daley Center Plaza,Dearborn Pkwy & Delaware Pl,member,0.018152021602484143,88189,2534153
+Kimbark Ave & 53rd St,Ellis Ave & 60th St,member,0.018152021602484143,87729,2534153
+Clarendon Ave & Gordon Ter,Sheridan Rd & Irving Park Rd,member,0.018112560685957006,88648,2534153
+Sheridan Rd & Irving Park Rd,Clarendon Ave & Gordon Ter,member,0.018073099769429862,89106,2534153
+Wells St & Elm St,State St & Chicago Ave,member,0.018073099769429862,89564,2534153
+Navy Pier,Dusable Harbor,member,0.018033638852902725,90021,2534153
+State St & Chicago Ave,Wells St & Elm St,member,0.017994177936375585,90477,2534153
+Clinton St & Madison St,Clinton St & Jackson Blvd,member,0.017994177936375585,90933,2534153
+Kingsbury St & Erie St,Kingsbury St & Kinzie St 2,member,0.017915256103321307,91387,2534153
+Millennium Park,Indiana Ave & Roosevelt Rd,casual,0.017857495720421876,162994,1366373
+Woodlawn Ave & 58th St,Kimbark Ave & 53rd St,casual,0.017857495720421876,163238,1366373
+Kimbark Ave & 53rd St,Ellis Ave & 58th St,member,0.01783633427026703,91839,2534153
+Ellis Ave & 55th St,University Ave & 59th St,member,0.01775741243721275,92739,2534153
+Wilton Ave & Belmont Ave,Broadway & Waveland Ave,member,0.01775741243721275,92289,2534153
+Michigan Ave & 14th St,Wabash Ave & Roosevelt Rd,member,0.01771795152068561,93188,2534153
+Broadway & Sheridan Rd,Sheridan Rd & Irving Park Rd,member,0.01771795152068561,93637,2534153
+Sheridan Rd & Montrose Ave,Sheffield Ave & Waveland Ave,casual,0.017711122804680714,164209,1366373
+Ellis Ave & 55th St,Lake Park Ave & 53rd St,member,0.017520646938049913,94081,2534153
+Theater on the Lake,Theater on the Lake,member,0.017481186021522772,94524,2534153
+Woodlawn Ave & 55th St,Woodlawn Ave & 58th St,member,0.017441725104995632,94966,2534153
+Broadway & Waveland Ave,Clarendon Ave & Junior Ter,member,0.017402264188468495,95407,2534153
+Ellis Ave & 55th St,Ellis Ave & 58th St,member,0.017362803271941354,96287,2534153
+Southport Ave & Wellington Ave,Sheffield Ave & Wellington Ave,member,0.017362803271941354,95847,2534153
+Woodlawn Ave & 58th St,Ellis Ave & 60th St,member,0.017323342355414217,96726,2534153
+Clinton St & Jackson Blvd,Aberdeen St & Jackson Blvd,member,0.017323342355414217,97165,2534153
+Pine Grove Ave & Waveland Ave,Pine Grove Ave & Irving Park Rd,member,0.017323342355414217,97604,2534153
+Lake Park Ave & 53rd St,Ellis Ave & 55th St,member,0.017283881438887077,98042,2534153
+Clark St & Armitage Ave,Wells St & Concord Ln,member,0.017244420522359936,98479,2534153
+Clinton St & Madison St,Clinton St & Tilden St,member,0.017204959605832796,98915,2534153
+Drexel Ave & 60th St,Ellis Ave & 55th St,member,0.017204959605832796,99351,2534153
+Desplaines St & Kinzie St,Kingsbury St & Kinzie St,member,0.017165498689305655,99786,2534153
+Kingsbury St & Kinzie St,Kingsbury St & Erie St,member,0.017165498689305655,100221,2534153
+Indiana Ave & Roosevelt Rd,Michigan Ave & 8th St,member,0.01712603777277852,100655,2534153
+Woodlawn Ave & 55th St,Ellis Ave & 60th St,casual,0.01712563114171606,167539,1366373
+Federal St & Polk St,Daley Center Plaza,member,0.017086576856251378,101088,2534153
+Ellis Ave & 55th St,Woodlawn Ave & 55th St,member,0.017086576856251378,101521,2534153
+Cornell Ave & Hyde Park Blvd,Cornell Ave & Hyde Park Blvd,casual,0.01705244468384548,168005,1366373
+Clinton St & Lake St,Canal St & Jackson Blvd,member,0.01704711593972424,101953,2534153
+Sheffield Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,member,0.0170076550231971,102384,2534153
+Wells St & Elm St,Wells St & Huron St,casual,0.0169792582259749,168470,1366373
+University Ave & 57th St,Harper Ave & 55th St,member,0.01696819410666996,102814,2534153
+Woodlawn Ave & 58th St,Woodlawn Ave & 55th St,member,0.01696819410666996,103244,2534153
+McClurg Ct & Ohio St,State St & Chicago Ave,member,0.01692873319014282,103673,2534153
+Sheffield Ave & Kingsbury St,Elston Ave & Cortland St,member,0.01692873319014282,104531,2534153
+Michigan Ave & Lake St,Cityfront Plaza Dr & Pioneer Ct,member,0.01692873319014282,104102,2534153
+Halsted St & Maxwell St,Halsted St & Polk St,member,0.01688927227361568,104959,2534153
+Ellis Ave & 58th St,Blackstone Ave & 59th St,member,0.016849811357088542,105386,2534153
+Ellis Ave & 60th St,Kimbark Ave & 53rd St,casual,0.016832885310233737,169393,1366373
+Kimbark Ave & 53rd St,Woodlawn Ave & 58th St,casual,0.016832885310233737,169853,1366373
+Sheffield Ave & Fullerton Ave,Ashland Ave & Wrightwood Ave,member,0.0168103504405614,106664,2534153
+Mies van der Rohe Way & Chestnut St,State St & Chicago Ave,member,0.0168103504405614,106238,2534153
+Desplaines St & Kinzie St,Kingsbury St & Kinzie St 1,member,0.0168103504405614,105812,2534153
+Clark St & Elm St,State St & Chicago Ave,member,0.016691967690979984,107087,2534153
+Calumet Ave & 33rd St,State St & 33rd St,casual,0.016686512394492575,170768,1366373
+May St & Taylor St,Morgan St & Polk St,member,0.016652506774452847,107509,2534153
+State St & Chicago Ave,Mies van der Rohe Way & Chestnut St,member,0.016573584941398566,107929,2534153
+Ellis Ave & 53rd St,University Ave & 57th St,casual,0.01654013947875141,170994,1366373
+Loomis St & Lexington St,Loomis St & Lexington St,member,0.016534124024871425,108348,2534153
+State St & Chicago Ave,State St & Chicago Ave,casual,0.016466953020880828,171219,1366373
+Shore Dr & 55th St,University Ave & 57th St,casual,0.016393766563010247,172116,1366373
+Theater on the Lake,Montrose Harbor,casual,0.016393766563010247,171892,1366373
+Sheridan Rd & Montrose Ave,Broadway & Waveland Ave,member,0.01637628035876287,108763,2534153
+Ashland Ave & 13th St,Loomis St & Lexington St,member,0.01633681944223573,109177,2534153
+DuSable Lake Shore Dr & Wellington Ave,Michigan Ave & Oak St,casual,0.016320580105139666,172563,1366373
+Wells St & Concord Ln,Clark St & Armitage Ave,member,0.01625789760918145,110001,2534153
+Broadway & Waveland Ave,Pine Grove Ave & Irving Park Rd,member,0.01625789760918145,109589,2534153
+Halsted St & Polk St,Halsted St & Maxwell St,member,0.01617897577612717,110411,2534153
+Halsted St & Polk St,Halsted St & Maxwell St,casual,0.016174207189398503,173228,1366373
+Blackstone Ave & 59th St,Ellis Ave & 58th St,member,0.016139514859600034,110820,2534153
+Pine Grove Ave & Irving Park Rd,Pine Grove Ave & Irving Park Rd,casual,0.016027834273657338,173886,1366373
+Emerald Ave & 31st St,Shields Ave & 31st St,member,0.015981671193491472,111630,2534153
+Cityfront Plaza Dr & Pioneer Ct,Michigan Ave & Lake St,member,0.015981671193491472,111225,2534153
+Kingsbury St & Kinzie St 2,Desplaines St & Kinzie St,member,0.015942210276964335,112034,2534153
+Daley Center Plaza,Federal St & Polk St,member,0.015863288443910058,112838,2534153
+Woodlawn Ave & 55th St,Shore Dr & 55th St,member,0.015863288443910058,112436,2534153
+May St & Taylor St,Wood St & Taylor St (Temp),member,0.015823827527382917,113239,2534153
+Wells St & Huron St,State St & Chicago Ave,member,0.015705444777801496,114433,2534153
+Canal St & Monroe St,Michigan Ave & Washington St,member,0.015705444777801496,114035,2534153
+Halsted St & Polk St,May St & Taylor St,member,0.015705444777801496,113637,2534153
+University Ave & 57th St,University Ave & 57th St,member,0.01566598386127436,115624,2534153
+University Ave & 57th St,Lake Park Ave & 53rd St,member,0.01566598386127436,115227,2534153
+DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & Monroe St,member,0.01566598386127436,114830,2534153
+Wolcott Ave & Polk St,Morgan St & Polk St,member,0.01562652294474722,116020,2534153
+Ellis Ave & 55th St,Shore Dr & 55th St,casual,0.015588715526433851,176904,1366373
+Ravenswood Ave & Lawrence Ave,Damen Ave & Foster Ave,member,0.01558706202822008,116415,2534153
+Theater on the Lake,Navy Pier,member,0.01554760111169294,116809,2534153
+Wabash Ave & Roosevelt Rd,Michigan Ave & 18th St,member,0.01546867927863866,117201,2534153
+Shore Dr & 55th St,Ellis Ave & 55th St,casual,0.015442342610692689,177749,1366373
+Sheridan Rd & Irving Park Rd,Broadway & Waveland Ave,member,0.015429218362111521,117592,2534153
+Morgan St & Polk St,Wolcott Ave & Polk St,member,0.015429218362111521,117983,2534153
+DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & North Blvd,member,0.015429218362111521,118374,2534153
+Shore Dr & 55th St,Woodlawn Ave & 55th St,member,0.015429218362111521,118765,2534153
+Morgan St & Polk St,May St & Taylor St,member,0.015429218362111521,119156,2534153
+Marine Dr & Ainslie St,Marine Dr & Ainslie St,member,0.015389757445584382,119546,2534153
+Woodlawn Ave & 58th St,Ellis Ave & 55th St,member,0.015389757445584382,119936,2534153
+May St & Taylor St,Halsted St & Polk St,member,0.015350296529057244,120325,2534153
+Ellis Ave & 53rd St,Kimbark Ave & 53rd St,member,0.015310835612530105,120713,2534153
+Wells St & Concord Ln,Wells St & Elm St,casual,0.015295969694951525,178377,1366373
+Navy Pier,DuSable Lake Shore Dr & North Blvd,member,0.015192452862948683,121098,2534153
+Peterson/Ridge Metra,Western Ave & Granville Ave,member,0.015152991946421545,121482,2534153
+University Ave & 57th St,Harper Ave & 55th St,casual,0.015149596779210362,179414,1366373
+Clark St & Elm St,Wells St & Concord Ln,member,0.015074070113367267,121864,2534153
+Halsted St & Roscoe St,Wilton Ave & Belmont Ave,member,0.014995148280312988,122244,2534153
+Wells St & Elm St,Wells St & Hubbard St,member,0.01495568736378585,122623,2534153
+Racine Ave & Belmont Ave,Wilton Ave & Belmont Ave,member,0.01491622644725871,123001,2534153
+Southport Ave & Waveland Ave,Southport Ave & Irving Park Rd,member,0.014876765530731568,123378,2534153
+Wells St & Huron St,Wells St & Concord Ln,member,0.014876765530731568,123755,2534153
+Ellis Ave & 60th St,Shore Dr & 55th St,member,0.014876765530731568,124132,2534153
+Wilton Ave & Belmont Ave,Halsted St & Roscoe St,member,0.01479784369767729,124507,2534153
+Blackstone Ave & 59th St,Ellis Ave & 55th St,member,0.014758382781150152,124881,2534153
+Ravenswood Ave & Lawrence Ave,Ravenswood Ave & Berteau Ave,member,0.014718921864623013,125254,2534153
+Shore Dr & 55th St,Shore Dr & 55th St,member,0.014718921864623013,125627,2534153
+Clark St & Armitage Ave,Clark St & Elm St,member,0.014718921864623013,126000,2534153
+Michigan Ave & Oak St,Michigan Ave & Oak St,member,0.014679460948095873,126372,2534153
+Wabash Ave & Roosevelt Rd,Wabash Ave & 16th St,casual,0.014637291574116291,182668,1366373
+Damen Ave & Foster Ave,Damen Ave & Leland Ave,casual,0.014637291574116291,182868,1366373
+Damen Ave & Pierce Ave,Damen Ave & Chicago Ave,casual,0.014637291574116291,183268,1366373
+Ravenswood Ave & Lawrence Ave,Paulina St & Montrose Ave,member,0.014600539115041593,126742,2534153
+Canal St & Jackson Blvd,Clinton St & Lake St,member,0.014561078198514453,127480,2534153
+Millennium Park,Indiana Ave & Roosevelt Rd,member,0.014561078198514453,128218,2534153
+LaSalle St & Illinois St,Dearborn Pkwy & Delaware Pl,member,0.014561078198514453,127849,2534153
+DuSable Lake Shore Dr & North Blvd,Navy Pier,member,0.014561078198514453,127111,2534153
+Canal St & Madison St,State St & Chicago Ave,member,0.014521617281987314,128586,2534153
+Western Ave & Granville Ave,Peterson/Ridge Metra,member,0.014442695448933037,129684,2534153
+Wells St & Concord Ln,Wells St & Huron St,member,0.014442695448933037,129318,2534153
+Michigan Ave & 8th St,Indiana Ave & Roosevelt Rd,member,0.014442695448933037,128952,2534153
+Greenview Ave & Fullerton Ave,Sheffield Ave & Fullerton Ave,casual,0.014417732200504548,185051,1366373
+Cornell Ave & Hyde Park Blvd,University Ave & 57th St,casual,0.014417732200504548,185445,1366373
+Sedgwick St & Webster Ave,Sedgwick St & North Ave,member,0.014403234532405898,130049,2534153
+Wabash Ave & Roosevelt Rd,Federal St & Polk St,member,0.014363773615878758,131141,2534153
+Wood St & Taylor St (Temp),May St & Taylor St,member,0.014363773615878758,130413,2534153
+Michigan Ave & 8th St,Michigan Ave & Jackson Blvd,member,0.014363773615878758,130777,2534153
+Lake Park Ave & 53rd St,Woodlawn Ave & 58th St,member,0.014324312699351617,131867,2534153
+DuSable Lake Shore Dr & Belmont Ave,DuSable Lake Shore Dr & Belmont Ave,member,0.014324312699351617,131504,2534153
+Dearborn Pkwy & Delaware Pl,Clark St & Elm St,member,0.014284851782824477,132229,2534153
+Broadway & Cornelia Ave,Pine Grove Ave & Irving Park Rd,member,0.014245390866297338,132590,2534153
+Damen Ave & Foster Ave,Damen Ave & Leland Ave,member,0.014205929949770199,132950,2534153
+Broadway & Berwyn Ave,Clark St & Berwyn Ave,casual,0.014198172826892803,187791,1366373
+Southport Ave & Wellington Ave,Sheffield Ave & Wellington Ave,casual,0.014198172826892803,187597,1366373
+Aberdeen St & Jackson Blvd,Desplaines St & Jackson Blvd,member,0.01416646903324306,133309,2534153
+Southport Ave & Irving Park Rd,Southport Ave & Roscoe St,member,0.014127008116715922,133667,2534153
+Indiana Ave & Roosevelt Rd,Michigan Ave & Jackson Blvd,casual,0.014124986369022222,188758,1366373
+McClurg Ct & Ohio St,Wabash Ave & Grand Ave,member,0.014087547200188781,134024,2534153
+Canal St & Madison St,Wabash Ave & Adams St,member,0.014087547200188781,134381,2534153
+Clinton St & Jackson Blvd,Clark St & Lake St,member,0.014087547200188781,134738,2534153
+Clark St & Armitage Ave,Lincoln Ave & Fullerton Ave,member,0.014048086283661642,135094,2534153
+Peoria St & Jackson Blvd,Clinton St & Madison St,member,0.014008625367134502,135449,2534153
+Ellis Ave & 58th St,Lake Park Ave & 56th St,member,0.014008625367134502,135804,2534153
+Broadway & Cornelia Ave,Wilton Ave & Belmont Ave,casual,0.01397861345328106,190099,1366373
+Michigan Ave & Oak St,Theater on the Lake,member,0.013969164450607361,136158,2534153
+Clark St & Schiller St,Clark St & Elm St,member,0.013969164450607361,136512,2534153
+Ellis Ave & 55th St,Harper Ave & 55th St,member,0.013929703534080223,136865,2534153
+Federal St & Polk St,Wabash Ave & 16th St,member,0.013890242617553084,137921,2534153
+University Ave & 59th St,University Ave & 57th St,member,0.013890242617553084,137569,2534153
+DuSable Lake Shore Dr & Monroe St,Navy Pier,member,0.013890242617553084,137217,2534153
+Clinton St & Lake St,Canal St & Adams St,member,0.013850781701025945,138272,2534153
+Clarendon Ave & Gordon Ter,Clarendon Ave & Gordon Ter,casual,0.013832240537539895,191046,1366373
+Kimbark Ave & 53rd St,Lake Park Ave & 53rd St,member,0.013811320784498806,138622,2534153
+Woodlawn Ave & 55th St,Ellis Ave & 60th St,member,0.013811320784498806,138972,2534153
+State St & Kinzie St,Clinton St & Washington Blvd,member,0.013771859867971666,139321,2534153
+Wells St & Concord Ln,Clark St & Elm St,member,0.013771859867971666,139670,2534153
+Montrose Harbor,Lakefront Trail & Bryn Mawr Ave,member,0.013771859867971666,140019,2534153
+Ellis Ave & 60th St,Ellis Ave & 60th St,casual,0.013759054079669314,191800,1366373
+University Ave & 57th St,Lake Park Ave & 53rd St,casual,0.013759054079669314,191612,1366373
+Racine Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,member,0.013732398951444525,140367,2534153
+Loomis St & Lexington St,Racine Ave & Congress Pkwy,member,0.013692938034917387,140714,2534153
+Clarendon Ave & Gordon Ter,Broadway & Sheridan Rd,member,0.013692938034917387,141061,2534153
+Clark St & Elm St,Clark St & Armitage Ave,member,0.013653477118390246,141753,2534153
+Theater on the Lake,Michigan Ave & Oak St,member,0.013653477118390246,141407,2534153
+Indiana Ave & Roosevelt Rd,Franklin St & Monroe St,member,0.013614016201863107,142443,2534153
+Halsted St & Polk St,Clinton St & Jackson Blvd,member,0.013614016201863107,142098,2534153
+McClurg Ct & Ohio St,McClurg Ct & Ohio St,member,0.013614016201863107,142788,2534153
+Ellis Ave & 60th St,Kimbark Ave & 53rd St,member,0.013574555285335969,143132,2534153
+Kedzie Ave & Palmer Ct,California Ave & Milwaukee Ave,member,0.013574555285335969,143476,2534153
+Sheffield Ave & Fullerton Ave,Clark St & Wrightwood Ave,member,0.013574555285335969,143820,2534153
+Dearborn Pkwy & Delaware Pl,LaSalle St & Illinois St,member,0.013574555285335969,144164,2534153
+Wells St & Concord Ln,Larrabee St & Webster Ave,casual,0.013539494706057571,193103,1366373
+Morgan St & Polk St,Clinton St & Madison St,member,0.01353509436880883,144507,2534153
+Wilton Ave & Belmont Ave,Broadway & Belmont Ave,member,0.01353509436880883,144850,2534153
+State St & Chicago Ave,Kingsbury St & Erie St,member,0.01353509436880883,145193,2534153
+Clark St & Newport St,Wilton Ave & Belmont Ave,member,0.013495633452281691,145535,2534153
+Pine Grove Ave & Waveland Ave,Pine Grove Ave & Waveland Ave,member,0.013456172535754549,145876,2534153
+Clark St & Leland Ave,Ravenswood Ave & Lawrence Ave,member,0.01341671161922741,146216,2534153
+Aberdeen St & Jackson Blvd,Loomis St & Lexington St,member,0.01337725070270027,146555,2534153
+Sheridan Rd & Noyes St (NU),Sheridan Rd & Noyes St (NU),member,0.013298328869645992,147229,2534153
+State St & Chicago Ave,Ritchie Ct & Banks St,member,0.013298328869645992,146892,2534153
+Blackstone Ave & 59th St,Woodlawn Ave & 58th St,member,0.013258867953118854,147565,2534153
+Broadway & Barry Ave,Broadway & Cornelia Ave,member,0.013219407036591715,148235,2534153
+Pine Grove Ave & Irving Park Rd,Pine Grove Ave & Irving Park Rd,member,0.013219407036591715,148570,2534153
+Clark St & Lake St,Canal St & Madison St,member,0.013219407036591715,148905,2534153
+Broadway & Waveland Ave,Wilton Ave & Belmont Ave,member,0.013219407036591715,147900,2534153
+Pine Grove Ave & Waveland Ave,Wilton Ave & Addison St,member,0.013179946120064574,149239,2534153
+Hampden Ct & Diversey Pkwy,Wilton Ave & Diversey Pkwy,member,0.013179946120064574,149573,2534153
+Clark St & Elm St,LaSalle St & Illinois St,casual,0.013173562416704662,194733,1366373
+Damen Ave & Leland Ave,Damen Ave & Foster Ave,casual,0.013173562416704662,194193,1366373
+Wells St & Huron St,Wells St & Concord Ln,casual,0.013173562416704662,194913,1366373
+Woodlawn Ave & 55th St,Woodlawn Ave & 58th St,casual,0.013173562416704662,194013,1366373
+Canal St & Madison St,Wells St & Huron St,member,0.013140485203537434,150239,2534153
+Wells St & Hubbard St,Wells St & Elm St,member,0.013140485203537434,149906,2534153
+Broadway & Waveland Ave,Clarendon Ave & Junior Ter,casual,0.01310037595883408,195271,1366373
+Woodlawn Ave & 55th St,University Ave & 57th St,casual,0.01310037595883408,195450,1366373
+University Ave & 57th St,Ellis Ave & 53rd St,casual,0.01310037595883408,195629,1366373
+Clark St & Winnemac Ave,Clark St & Bryn Mawr Ave,casual,0.01310037595883408,195808,1366373
+Ravenswood Ave & Lawrence Ave,Clark St & Winnemac Ave,casual,0.01310037595883408,195987,1366373
+University Ave & 57th St,Cornell Ave & Hyde Park Blvd,casual,0.01310037595883408,196166,1366373
+Harper Ave & 55th St,University Ave & 57th St,member,0.013061563370483155,150570,2534153
+Kingsbury St & Kinzie St,Clinton St & Jackson Blvd,member,0.013022102453956016,150900,2534153
+Morgan St & Polk St,900 W Harrison St,member,0.012982641537428877,151887,2534153
+Sheffield Ave & Fullerton Ave,Racine Ave & Wrightwood Ave,member,0.012982641537428877,152545,2534153
+Desplaines St & Kinzie St,Wells St & Hubbard St,member,0.012982641537428877,151558,2534153
+Pine Grove Ave & Irving Park Rd,Broadway & Waveland Ave,member,0.012982641537428877,151229,2534153
+Larrabee St & Kingsbury St,Clinton St & Washington Blvd,member,0.012982641537428877,152216,2534153
+Wabash Ave & Roosevelt Rd,Michigan Ave & 18th St,casual,0.012954003043092919,197055,1366373
+Wabash Ave & 16th St,Wabash Ave & Roosevelt Rd,casual,0.012954003043092919,197232,1366373
+Sheffield Ave & Wellington Ave,Broadway & Barry Ave,member,0.012943180620901738,153529,2534153
+California Ave & Milwaukee Ave,Kedzie Ave & Palmer Ct,member,0.012943180620901738,152873,2534153
+Damen Ave & Pierce Ave,Damen Ave & Chicago Ave,member,0.012943180620901738,153201,2534153
+Wells St & Elm St,Wells St & Walton St,member,0.012943180620901738,153857,2534153
+Halsted St & Roosevelt Rd,Clinton St & Jackson Blvd,member,0.0129037197043746,154184,2534153
+Green St & Madison St,Aberdeen St & Randolph St,member,0.0129037197043746,154838,2534153
+Clinton St & Jackson Blvd,Halsted St & Polk St,member,0.0129037197043746,154511,2534153
+Michigan Ave & 8th St,Indiana Ave & Roosevelt Rd,casual,0.012880816585222337,197584,1366373
+Canal St & Adams St,Clark St & Lake St,member,0.012864258787847457,156142,2534153
+Shields Ave & 31st St,Emerald Ave & 31st St,member,0.012864258787847457,155816,2534153
+Sheridan Rd & Montrose Ave,Clarendon Ave & Gordon Ter,member,0.012864258787847457,155490,2534153
+Wabash Ave & 16th St,Federal St & Polk St,member,0.012864258787847457,155164,2534153
+Kingsbury St & Kinzie St 2,Clinton St & Washington Blvd 2,member,0.012824797871320319,156467,2534153
+Clark St & Lake St,Clinton St & Washington Blvd,member,0.012824797871320319,156792,2534153
+Sheffield Ave & Webster Ave,Larrabee St & Webster Ave,member,0.012824797871320319,157117,2534153
+Indiana Ave & Roosevelt Rd,Michigan Ave & Jackson Blvd,member,0.012824797871320319,157442,2534153
+Wacker Dr & Washington St,Michigan Ave & Washington St,member,0.012824797871320319,157767,2534153
+State St & Randolph St,Canal St & Madison St,member,0.012824797871320319,158092,2534153
+State St & Chicago Ave,State St & Chicago Ave,member,0.01278533695479318,158416,2534153
+Indiana Ave & Roosevelt Rd,Federal St & Polk St,member,0.01274587603826604,158739,2534153
+Cornell Ave & Hyde Park Blvd,University Ave & 57th St,member,0.01274587603826604,159062,2534153
+Ellis Ave & 55th St,Drexel Ave & 60th St,casual,0.012734443669481173,198812,1366373
+State St & Kinzie St,New St & Illinois St,member,0.0127064151217389,159706,2534153
+Indiana Ave & Roosevelt Rd,Indiana Ave & Roosevelt Rd,member,0.0127064151217389,159384,2534153
+University Ave & 57th St,University Ave & 59th St,member,0.0127064151217389,160028,2534153
+Sheridan Rd & Argyle St,Sheridan Rd & Argyle St,member,0.012666954205211762,160670,2534153
+Damen Ave & Pierce Ave,Damen Ave & Division St,member,0.012666954205211762,160349,2534153
+State St & Chicago Ave,Wells St & Elm St,casual,0.012661257211610592,200028,1366373
+Clark St & Schiller St,Clark St & Schiller St,casual,0.012661257211610592,199855,1366373
+Wells St & Elm St,Wells St & Hubbard St,casual,0.012661257211610592,200201,1366373
+Clark St & Bryn Mawr Ave,Broadway & Ridge Ave,member,0.012627493288684623,160990,2534153
+Fairbanks Ct & Grand Ave,Wabash Ave & Grand Ave,member,0.012627493288684623,161310,2534153
+Ritchie Ct & Banks St,Clark St & Elm St,member,0.012627493288684623,161630,2534153
+Clark St & Elm St,Wells St & Concord Ln,casual,0.012588070753740013,200546,1366373
+Sheridan Rd & Argyle St,Sheridan Rd & Argyle St,casual,0.012588070753740013,200718,1366373
+Sedgwick St & North Ave,Sedgwick St & Webster Ave,member,0.012588032372157481,162268,2534153
+Navy Pier,DuSable Lake Shore Dr & Monroe St,member,0.012588032372157481,161949,2534153
+Kingsbury St & Erie St,Clinton St & Lake St,member,0.012548571455630342,162586,2534153
+New St & Illinois St,State St & Kinzie St,member,0.012509110539103203,162903,2534153
+Blackstone Ave & 59th St,Ellis Ave & 55th St,casual,0.012441697837998849,202596,1366373
+Sheridan Rd & Irving Park Rd,Sheridan Rd & Montrose Ave,member,0.012430188706048924,163218,2534153
+Ravenswood Ave & Lawrence Ave,Clark St & Leland Ave,member,0.012390727789521785,164788,2534153
+Broadway & Cornelia Ave,Wilton Ave & Addison St,member,0.012390727789521785,163532,2534153
+Broadway & Cornelia Ave,Broadway & Barry Ave,member,0.012390727789521785,163846,2534153
+Ravenswood Ave & Lawrence Ave,Campbell Ave & Montrose Ave,member,0.012390727789521785,164160,2534153
+Kimbark Ave & 53rd St,University Ave & 59th St,member,0.012390727789521785,164474,2534153
+Clinton St & Lake St,Clinton St & Jackson Blvd,casual,0.012368511380128266,203611,1366373
+Elston Ave & Cortland St,Cherry Ave & Blackhawk St,member,0.012351266872994647,165101,2534153
+DuSable Lake Shore Dr & Diversey Pkwy,DuSable Lake Shore Dr & Diversey Pkwy,member,0.012351266872994647,165414,2534153
+Franklin St & Jackson Blvd,Wells St & Polk St,member,0.012272345039940366,166347,2534153
+Damen Ave & Pierce Ave,Damen Ave & Thomas St (Augusta Blvd),member,0.012272345039940366,165725,2534153
+Kingsbury St & Kinzie St 2,Clinton St & Jackson Blvd,member,0.012272345039940366,166036,2534153
+Delano Ct & Roosevelt Rd,Wabash Ave & Roosevelt Rd,member,0.012232884123413227,166967,2534153
+Ellis Ave & 55th St,Blackstone Ave & 59th St,member,0.012232884123413227,168207,2534153
+Larrabee St & Kingsbury St 1,Kingsbury St & Kinzie St 2,member,0.012232884123413227,167897,2534153
+Loomis St & Lexington St,Ashland Ave & 13th St,member,0.012232884123413227,167587,2534153
+Clark St & Elm St,Clark St & Elm St,member,0.012232884123413227,167277,2534153
+Ada St & Washington Blvd,Clinton St & Washington Blvd,member,0.012232884123413227,166657,2534153
+Harper Ave & 55th St,University Ave & 57th St,casual,0.012222138464387102,205118,1366373
+Michigan Ave & Washington St,Canal St & Madison St,casual,0.012222138464387102,204951,1366373
+Wabash Ave & Roosevelt Rd,Wabash Ave & 9th St,member,0.012193423206886088,168516,2534153
+Michigan Ave & 8th St,Millennium Park,member,0.012193423206886088,168825,2534153
+Clark St & Armitage Ave,Clark St & Armitage Ave,member,0.012193423206886088,169134,2534153
+Michigan Ave & 18th St,Wabash Ave & Roosevelt Rd,member,0.012193423206886088,169443,2534153
+Clark St & Elm St,Clark St & Chicago Ave,member,0.012153962290358948,169751,2534153
+Ashland Ave & Wellington Ave,Sheffield Ave & Wellington Ave,member,0.012153962290358948,170059,2534153
+Peoria St & Jackson Blvd,Clinton St & Jackson Blvd,member,0.012153962290358948,170367,2534153
+Damen Ave & Pierce Ave,Damen Ave & Thomas St (Augusta Blvd),casual,0.012148952006516523,205616,1366373
+Clark St & Elm St,Wells St & Huron St,member,0.012114501373831809,170674,2534153
+Lakefront Trail & Bryn Mawr Ave,Lakefront Trail & Bryn Mawr Ave,member,0.012114501373831809,170981,2534153
+Columbus Dr & Randolph St,Daley Center Plaza,member,0.012114501373831809,171288,2534153
+Paulina St & Montrose Ave,Ravenswood Ave & Lawrence Ave,member,0.012114501373831809,171595,2534153
+Sheridan Rd & Montrose Ave,Pine Grove Ave & Irving Park Rd,member,0.012075040457304669,171901,2534153
+Aberdeen St & Jackson Blvd,Clinton St & Jackson Blvd,member,0.012075040457304669,172207,2534153
+Halsted St & Maxwell St,Morgan St & Polk St,member,0.01203557954077753,173427,2534153
+Wells St & Concord Ln,Clark St & Lincoln Ave,member,0.01203557954077753,172817,2534153
+Aberdeen St & Monroe St,Jefferson St & Monroe St,member,0.01203557954077753,173122,2534153
+Morgan St & Polk St,Halsted St & Maxwell St,member,0.01203557954077753,172512,2534153
+Wells St & Huron St,Kingsbury St & Kinzie St,member,0.01203557954077753,173732,2534153
+Broadway & Sunnyside Ave,Clarendon Ave & Gordon Ter,member,0.011996118624250391,174036,2534153
+State St & Chicago Ave,Clark St & Schiller St,member,0.011996118624250391,174340,2534153
+Clark St & Drummond Pl,Clark St & Armitage Ave,member,0.011996118624250391,174644,2534153
+Desplaines St & Kinzie St,Kingsbury St & Erie St,member,0.011956657707723252,174947,2534153
+Wells St & Elm St,Kingsbury St & Kinzie St 2,member,0.011956657707723252,175250,2534153
+Clifton Ave & Armitage Ave,Elston Ave & Cortland St,member,0.011917196791196112,175552,2534153
+Wolcott Ave & Polk St,Hermitage Ave & Polk St,member,0.011917196791196112,175854,2534153
+Clarendon Ave & Junior Ter,Broadway & Sheridan Rd,member,0.011877735874668973,176155,2534153
+Federal St & Polk St,Federal St & Polk St,member,0.011838274958141833,176755,2534153
+Burnham Harbor,Burnham Harbor,member,0.011838274958141833,177055,2534153
+Larrabee St & Kingsbury St 2,Clinton St & Jackson Blvd,member,0.011838274958141833,176455,2534153
+Wells St & Concord Ln,Wells St & Evergreen Ave,member,0.011798814041614692,178550,2534153
+Kingsbury St & Kinzie St,Clinton St & Madison St,member,0.011798814041614692,177354,2534153
+Pine Grove Ave & Irving Park Rd,Sheridan Rd & Montrose Ave,member,0.011798814041614692,177653,2534153
+Larrabee St & Kingsbury St 2,Clinton St & Washington Blvd 2,member,0.011798814041614692,177952,2534153
+Clinton St & Madison St,Franklin St & Jackson Blvd,member,0.011798814041614692,178251,2534153
+Ellis Ave & 55th St,University Ave & 59th St,casual,0.011783019717163614,209519,1366373
+University Ave & 57th St,Drexel Ave & 60th St,casual,0.011783019717163614,209036,1366373
+McClurg Ct & Ohio St,Mies van der Rohe Way & Chestnut St,member,0.011759353125087553,179742,2534153
+Damen Ave & Thomas St (Augusta Blvd),Damen Ave & Wicker Park Ave,member,0.011759353125087553,178848,2534153
+Rush St & Superior St,Wells St & Huron St,member,0.011759353125087553,179146,2534153
+Indiana Ave & Roosevelt Rd,Millennium Park,member,0.011759353125087553,179444,2534153
+Michigan Ave & Jackson Blvd,Indiana Ave & Roosevelt Rd,member,0.011719892208560415,180039,2534153
+Woodlawn Ave & 55th St,Kimbark Ave & 53rd St,casual,0.011709833259293034,210000,1366373
+Clarendon Ave & Junior Ter,Broadway & Waveland Ave,casual,0.011709833259293034,210640,1366373
+Wells St & Concord Ln,Wells St & Huron St,casual,0.011709833259293034,210960,1366373
+Wells St & Walton St,Wells St & Huron St,member,0.011680431292033276,180335,2534153
+Clinton St & Washington Blvd,Kingsbury St & Kinzie St,member,0.011680431292033276,180631,2534153
+Franklin St & Monroe St,State St & Chicago Ave,member,0.011680431292033276,180927,2534153
+Ellis Ave & 53rd St,Ellis Ave & 58th St,member,0.011601509458978997,181221,2534153
+Morgan St & Polk St,Morgan St & Polk St,member,0.011601509458978997,181515,2534153
+Cherry Ave & Blackhawk St,Elston Ave & Cortland St,member,0.011601509458978997,181809,2534153
+Canal St & Monroe St,LaSalle St & Jackson Blvd,member,0.011601509458978997,182103,2534153
+Federal St & Polk St,Franklin St & Jackson Blvd,member,0.011601509458978997,182397,2534153
+Southport Ave & Roscoe St,Southport Ave & Irving Park Rd,member,0.011601509458978997,182691,2534153
+LaSalle St & Jackson Blvd,Columbus Dr & Randolph St,member,0.011601509458978997,182985,2534153
+Campbell Ave & Montrose Ave,Ravenswood Ave & Lawrence Ave,member,0.011601509458978997,183279,2534153
+Cityfront Plaza Dr & Pioneer Ct,Michigan Ave & Lake St,casual,0.01156346034355187,211911,1366373
+Michigan Ave & Oak St,DuSable Lake Shore Dr & Diversey Pkwy,member,0.011562048542451856,184451,2534153
+Broadway & Ridge Ave,Clark St & Bryn Mawr Ave,member,0.011562048542451856,185037,2534153
+Theater on the Lake,Montrose Harbor,member,0.011562048542451856,183572,2534153
+Pine Grove Ave & Waveland Ave,Sheridan Rd & Irving Park Rd,member,0.011562048542451856,184744,2534153
+Clarendon Ave & Gordon Ter,Sheridan Rd & Montrose Ave,member,0.011562048542451856,185330,2534153
+Clinton St & Washington Blvd,Desplaines St & Kinzie St,member,0.011562048542451856,183865,2534153
+McClurg Ct & Ohio St,LaSalle St & Jackson Blvd,member,0.011562048542451856,184158,2534153
+Daley Center Plaza,Canal St & Madison St,member,0.011522587625924717,185622,2534153
+Aberdeen St & Jackson Blvd,Peoria St & Jackson Blvd,member,0.011522587625924717,186206,2534153
+May St & Taylor St,Loomis St & Lexington St,member,0.011522587625924717,185914,2534153
+Blackstone Ave & 59th St,Ellis Ave & 60th St,casual,0.01149027388568129,212700,1366373
+Michigan Ave & 18th St,Wabash Ave & Roosevelt Rd,casual,0.01149027388568129,213642,1366373
+Clark St & Lake St,Canal St & Madison St,casual,0.01149027388568129,213799,1366373
+Clark St & Lincoln Ave,Lincoln Ave & Fullerton Ave,casual,0.01149027388568129,213956,1366373
+Southport Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,casual,0.01149027388568129,214270,1366373
+Rhodes Ave & 32nd St,State St & 33rd St,member,0.011483126709397577,187079,2534153
+Burling St & Diversey Pkwy,Wilton Ave & Diversey Pkwy,member,0.011483126709397577,186788,2534153
+Clark St & Elm St,Clark St & Schiller St,member,0.011483126709397577,186497,2534153
+Clark St & Lake St,Clinton St & Jackson Blvd,member,0.011443665792870438,188529,2534153
+Wabash Ave & Grand Ave,McClurg Ct & Ohio St,member,0.011443665792870438,188819,2534153
+Montrose Harbor,Theater on the Lake,member,0.011443665792870438,187949,2534153
+Ellis Ave & 55th St,Woodlawn Ave & 58th St,member,0.011443665792870438,187659,2534153
+Claremont Ave & Hirsch St,Damen Ave & Pierce Ave,member,0.011443665792870438,187369,2534153
+McClurg Ct & Ohio St,Fairbanks Ct & Grand Ave,member,0.011443665792870438,188239,2534153
+Canal St & Madison St,Columbus Dr & Randolph St,member,0.0114042048763433,189397,2534153
+Sheffield Ave & Fullerton Ave,Elston Ave & Cortland St,member,0.0114042048763433,189686,2534153
+DuSable Lake Shore Dr & Monroe St,Dusable Harbor,member,0.0114042048763433,189108,2534153
+Kingsbury St & Erie St,Orleans St & Merchandise Mart Plaza,member,0.01136474395981616,190262,2534153
+Clarendon Ave & Junior Ter,Clarendon Ave & Gordon Ter,member,0.01136474395981616,191126,2534153
+Southport Ave & Irving Park Rd,Southport Ave & Waveland Ave,member,0.01136474395981616,190838,2534153
+DuSable Lake Shore Dr & North Blvd,Clark St & Elm St,member,0.01136474395981616,190550,2534153
+Calumet Ave & 33rd St,State St & 35th St,member,0.01136474395981616,189974,2534153
+Blackstone Ave & 59th St,University Ave & 59th St,casual,0.011343900969940125,215517,1366373
+State St & 33rd St,Calumet Ave & 33rd St,casual,0.011343900969940125,215672,1366373
+Benson Ave & Church St,University Library (NU),casual,0.011343900969940125,215982,1366373
+Shore Dr & 55th St,Ellis Ave & 60th St,casual,0.011343900969940125,216137,1366373
+Sedgwick St & Huron St,Kingsbury St & Kinzie St 2,member,0.01132528304328902,192848,2534153
+Mies van der Rohe Way & Chestnut St,Clark St & Elm St,member,0.01132528304328902,192561,2534153
+Columbus Dr & Randolph St,LaSalle St & Jackson Blvd,member,0.01132528304328902,191987,2534153
+Clinton St & Washington Blvd,Larrabee St & Kingsbury St,member,0.01132528304328902,191700,2534153
+DuSable Lake Shore Dr & Wellington Ave,DuSable Lake Shore Dr & Wellington Ave,member,0.01132528304328902,191413,2534153
+Dorchester Ave & 53rd St,University Ave & 57th St,member,0.01132528304328902,192274,2534153
+Sheridan Rd & Montrose Ave,Sheridan Rd & Irving Park Rd,member,0.011285822126761881,193420,2534153
+Dusable Harbor,Dusable Harbor,member,0.011285822126761881,193706,2534153
+Lake Park Ave & 56th St,Ellis Ave & 58th St,member,0.011285822126761881,193134,2534153
+Canal St & Madison St,Michigan Ave & Washington St,casual,0.011270714512069546,216291,1366373
+Clark St & Berwyn Ave,Broadway & Berwyn Ave,casual,0.011270714512069546,216907,1366373
+Kimbark Ave & 53rd St,Shore Dr & 55th St,casual,0.011270714512069546,216753,1366373
+Wells St & Walton St,Wells St & Hubbard St,member,0.011246361210234741,193991,2534153
+Elston Ave & Cortland St,Sheffield Ave & Fullerton Ave,member,0.011246361210234741,194276,2534153
+Clark St & Lake St,Canal St & Adams St,member,0.011246361210234741,194561,2534153
+Clinton St & Washington Blvd 2,Kingsbury St & Kinzie St 1,member,0.011246361210234741,194846,2534153
+Morgan Ave & 14th Pl,Morgan St & Polk St,member,0.011246361210234741,195131,2534153
+Cornell Ave & Hyde Park Blvd,Ellis Ave & 58th St,member,0.0112069002937076,196267,2534153
+Navy Pier,Michigan Ave & Oak St,member,0.0112069002937076,195983,2534153
+Clinton St & Washington Blvd,Rush St & Hubbard St,member,0.0112069002937076,195699,2534153
+Woodlawn Ave & 58th St,University Ave & 57th St,member,0.0112069002937076,195415,2534153
+Ellis Ave & 60th St,Ellis Ave & 58th St,casual,0.011197528054198963,217213,1366373
+Sheffield Ave & Fullerton Ave,Ashland Ave & Wrightwood Ave,casual,0.011197528054198963,217060,1366373
+DuSable Lake Shore Dr & Monroe St,Indiana Ave & Roosevelt Rd,member,0.011167439377180462,197116,2534153
+Clark St & Winnemac Ave,Broadway & Argyle St,member,0.011167439377180462,196833,2534153
+Sedgwick St & Huron St,Kingsbury St & Kinzie St,member,0.011167439377180462,196550,2534153
+Shields Ave & 31st St,Wentworth Ave & 33rd St,member,0.011127978460653323,198244,2534153
+Clark St & Winnemac Ave,Clark St & Bryn Mawr Ave,member,0.011127978460653323,197962,2534153
+Loomis St & Lexington St,May St & Taylor St,member,0.011127978460653323,197680,2534153
+Fairbanks Ct & Grand Ave,LaSalle St & Jackson Blvd,member,0.011127978460653323,197398,2534153
+Clark St & Lincoln Ave,Lincoln Ave & Fullerton Ave,member,0.011088517544126184,199930,2534153
+Wells St & Huron St,Clinton St & Washington Blvd,member,0.011088517544126184,199649,2534153
+Ellis Ave & 55th St,Cornell Ave & Hyde Park Blvd,member,0.011088517544126184,199368,2534153
+Michigan Ave & Oak St,DuSable Lake Shore Dr & Belmont Ave,member,0.011088517544126184,199087,2534153
+Kingsbury St & Erie St,Kingsbury St & Erie St,member,0.011088517544126184,198806,2534153
+State St & Chicago Ave,Sedgwick St & Huron St,member,0.011088517544126184,198525,2534153
+Lake Park Ave & 53rd St,University Ave & 57th St,casual,0.011051155138457799,219494,1366373
+Griffin Museum of Science and Industry,University Ave & 57th St,member,0.011049056627599044,200210,2534153
+Aberdeen St & Monroe St,Franklin St & Monroe St,member,0.011049056627599044,200490,2534153
+Ellis Ave & 60th St,Woodlawn Ave & 55th St,member,0.011049056627599044,201050,2534153
+Sheridan Rd & Irving Park Rd,Southport Ave & Irving Park Rd,member,0.011049056627599044,201330,2534153
+DuSable Lake Shore Dr & Wellington Ave,DuSable Lake Shore Dr & Diversey Pkwy,member,0.011049056627599044,201610,2534153
+Shore Dr & 55th St,Woodlawn Ave & 58th St,member,0.011049056627599044,200770,2534153
+Kingsbury St & Kinzie St,Dearborn Pkwy & Delaware Pl,member,0.011009595711071905,201889,2534153
+Kedzie Ave & Palmer Ct,Kedzie Ave & Milwaukee Ave,member,0.011009595711071905,202168,2534153
+Ashland Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,casual,0.01097796868058722,221148,1366373
+Broadway & Granville Ave,Peterson/Ridge Metra,casual,0.01097796868058722,220548,1366373
+Larrabee St & Kingsbury St,Kingsbury St & Kinzie St,member,0.010970134794544766,202446,2534153
+Wabash Ave & Roosevelt Rd,Wells St & Polk St,member,0.010970134794544766,202724,2534153
+University Ave & 59th St,Kimbark Ave & 53rd St,member,0.010970134794544766,203002,2534153
+Clinton St & Jackson Blvd,Larrabee St & Kingsbury St 2,member,0.010970134794544766,203280,2534153
+Clybourn Ave & Division St,Sedgwick St & North Ave,member,0.010930673878017626,203834,2534153
+Southport Ave & Irving Park Rd,Sheridan Rd & Irving Park Rd,member,0.010930673878017626,203557,2534153
+Michigan Ave & Washington St,Columbus Dr & Randolph St,member,0.010891212961490485,205214,2534153
+Woodlawn Ave & 55th St,University Ave & 59th St,member,0.010891212961490485,204938,2534153
+Lake Park Ave & 56th St,Woodlawn Ave & 58th St,member,0.010891212961490485,204662,2534153
+Michigan Ave & Oak St,DuSable Lake Shore Dr & North Blvd,member,0.010891212961490485,204386,2534153
+Ellis Ave & 53rd St,Lake Park Ave & 53rd St,member,0.010891212961490485,204110,2534153
+Broadway & Waveland Ave,Broadway & Cornelia Ave,member,0.010851752044963347,205764,2534153
+Larrabee St & Kingsbury St,State St & Chicago Ave,member,0.010851752044963347,206864,2534153
+Clarendon Ave & Gordon Ter,Broadway & Sunnyside Ave,member,0.010851752044963347,206589,2534153
+Harper Ave & 55th St,Ellis Ave & 55th St,member,0.010851752044963347,206314,2534153
+Calumet Ave & 18th St,Wabash Ave & Roosevelt Rd,member,0.010851752044963347,206039,2534153
+Damen Ave & Leland Ave,Ravenswood Ave & Lawrence Ave,member,0.010851752044963347,205489,2534153
+Wells St & Polk St,Franklin St & Jackson Blvd,member,0.010851752044963347,207139,2534153
+Benson Ave & Church St,Chicago Ave & Washington St,member,0.010812291128436208,208509,2534153
+Broadway & Granville Ave,Glenwood Ave & Morse Ave,member,0.010812291128436208,208235,2534153
+Rush St & Superior St,Canal St & Adams St,member,0.010812291128436208,207961,2534153
+Sheridan Rd & Montrose Ave,Pine Grove Ave & Waveland Ave,member,0.010812291128436208,207687,2534153
+Ellis Ave & 58th St,Ellis Ave & 53rd St,member,0.010812291128436208,207413,2534153
+Federal St & Polk St,Indiana Ave & Roosevelt Rd,member,0.010772830211909067,209055,2534153
+St. Louis Ave & Fullerton Ave,Kedzie Ave & Milwaukee Ave,member,0.010772830211909067,208782,2534153
+State St & Chicago Ave,Wells St & Walton St,member,0.010733369295381929,210687,2534153
+Morgan St & Polk St,Halsted St & Roosevelt Rd,member,0.010733369295381929,210415,2534153
+Damen Ave & Pierce Ave,Claremont Ave & Hirsch St,member,0.010733369295381929,210143,2534153
+State St & 33rd St,Rhodes Ave & 32nd St,member,0.010733369295381929,209871,2534153
+Aberdeen St & Randolph St,Green St & Madison St,member,0.010733369295381929,209599,2534153
+Sheridan Rd & Columbia Ave,Sheridan Rd & Loyola Ave,member,0.010733369295381929,209327,2534153
+Cornell Ave & Hyde Park Blvd,Cornell Ave & Hyde Park Blvd,member,0.01069390837885479,213126,2534153
+Sheffield Ave & Fullerton Ave,Sheffield Ave & Wrightwood Ave,member,0.01069390837885479,212855,2534153
+Wells St & Evergreen Ave,Wells St & Randolph St,member,0.01069390837885479,212584,2534153
+Ravenswood Ave & Lawrence Ave,Broadway & Wilson Ave,member,0.01069390837885479,212313,2534153
+Broadway & Barry Ave,Broadway & Waveland Ave,member,0.01069390837885479,212042,2534153
+DuSable Lake Shore Dr & Diversey Pkwy,Michigan Ave & Oak St,member,0.01069390837885479,211771,2534153
+Cornell Ave & Hyde Park Blvd,Woodlawn Ave & 55th St,member,0.01069390837885479,211500,2534153
+Wells St & Walton St,State St & Chicago Ave,member,0.01069390837885479,211229,2534153
+Ellis Ave & 58th St,Harper Ave & 59th St,member,0.01069390837885479,210958,2534153
+Michigan Ave & Washington St,Franklin St & Monroe St,member,0.01069390837885479,213397,2534153
+University Library (NU),Benson Ave & Church St,casual,0.010685222849104893,224692,1366373
+Wolcott Ave & Polk St,May St & Taylor St,member,0.01065444746232765,213667,2534153
+Dearborn Pkwy & Delaware Pl,Clinton St & Lake St,member,0.01065444746232765,214747,2534153
+Ellis Ave & 55th St,Lake Park Ave & 56th St,member,0.01065444746232765,214477,2534153
+Sheridan Rd & Irving Park Rd,Pine Grove Ave & Waveland Ave,member,0.01065444746232765,214207,2534153
+Racine Ave & Belmont Ave,Broadway & Waveland Ave,member,0.01065444746232765,213937,2534153
+Wells St & Huron St,Wells St & Walton St,member,0.010614986545800509,216630,2534153
+Wilton Ave & Diversey Pkwy,Hampden Ct & Diversey Pkwy,member,0.010614986545800509,217168,2534153
+Benson Ave & Church St,University Library (NU),member,0.010614986545800509,216899,2534153
+Wilton Ave & Belmont Ave,Southport Ave & Belmont Ave,member,0.010614986545800509,215016,2534153
+Harper Ave & 55th St,Woodlawn Ave & 55th St,member,0.010614986545800509,215285,2534153
+Canal St & Adams St,Clinton St & Lake St,member,0.010614986545800509,215554,2534153
+Halsted St & Polk St,Aberdeen St & Jackson Blvd,member,0.010614986545800509,215823,2534153
+Financial Pl & Ida B Wells Dr,Clinton St & Jackson Blvd,member,0.010614986545800509,216092,2534153
+Pine Grove Ave & Irving Park Rd,Halsted St & Roscoe St,member,0.010614986545800509,216361,2534153
+Ellis Ave & 58th St,Kimbark Ave & 53rd St,casual,0.01061203639123431,225997,1366373
+Peoria St & Jackson Blvd,Clinton St & Madison St,casual,0.01061203639123431,224837,1366373
+Clark St & Wrightwood Ave,Wilton Ave & Diversey Pkwy,member,0.01057552562927337,218240,2534153
+Canal St & Harrison St,Clinton St & Madison St,member,0.01057552562927337,217972,2534153
+Burnham Harbor,DuSable Lake Shore Dr & Monroe St,member,0.01057552562927337,217704,2534153
+Broadway & Waveland Ave,Broadway & Sunnyside Ave,member,0.01057552562927337,217436,2534153
+Broadway & Belmont Ave,Wilton Ave & Belmont Ave,casual,0.010538849933363731,227006,1366373
+Ravenswood Ave & Lawrence Ave,Washtenaw Ave & Lawrence Ave,member,0.010536064712746231,218507,2534153
+Cornell Ave & Hyde Park Blvd,Ellis Ave & 55th St,member,0.010536064712746231,218774,2534153
+Canal St & Madison St,Daley Center Plaza,member,0.010536064712746231,219041,2534153
+Pine Grove Ave & Irving Park Rd,Broadway & Cornelia Ave,member,0.010536064712746231,219308,2534153
+Wells St & Huron St,Clark St & Elm St,member,0.010496603796219093,219574,2534153
+Woodlawn Ave & 58th St,Lake Park Ave & 56th St,member,0.010496603796219093,219840,2534153
+Wells St & Concord Ln,Larrabee St & Webster Ave,member,0.010496603796219093,220106,2534153
+DuSable Lake Shore Dr & Wellington Ave,Michigan Ave & Oak St,member,0.010496603796219093,220372,2534153
+Wells St & Walton St,Wells St & Concord Ln,member,0.010457142879691952,220637,2534153
+Sheffield Ave & Wellington Ave,Ashland Ave & Wellington Ave,member,0.010457142879691952,220902,2534153
+Wilton Ave & Belmont Ave,Clark St & Newport St,member,0.010457142879691952,221167,2534153
+Broadway & Waveland Ave,Broadway & Barry Ave,member,0.010417681963164813,221431,2534153
+Lake Park Ave & 56th St,Ellis Ave & 55th St,member,0.010417681963164813,223279,2534153
+Lincoln Ave & Winona St,Ravenswood Ave & Lawrence Ave,member,0.010417681963164813,223015,2534153
+Desplaines St & Kinzie St,Clinton St & Lake St,member,0.010417681963164813,222751,2534153
+Broadway & Cornelia Ave,Broadway & Waveland Ave,member,0.010417681963164813,222487,2534153
+Wells St & Huron St,Wells St & Hubbard St,member,0.010417681963164813,222223,2534153
+Mies van der Rohe Way & Chestnut St,Michigan Ave & Pearson St,member,0.010417681963164813,221959,2534153
+Wilton Ave & Belmont Ave,Racine Ave & Belmont Ave,member,0.010417681963164813,221695,2534153
+Wells St & Walton St,Wells St & Concord Ln,casual,0.010392477017622567,228430,1366373
+Woodlawn Ave & 55th St,Ellis Ave & 55th St,member,0.010378221046637675,225383,2534153
+Dearborn Pkwy & Delaware Pl,Clark St & Chicago Ave,member,0.010378221046637675,225120,2534153
+State St & 35th St,Calumet Ave & 33rd St,member,0.010378221046637675,224857,2534153
+Woodlawn Ave & 58th St,Lake Park Ave & 53rd St,member,0.010378221046637675,224594,2534153
+Canal St & Madison St,Wells St & Elm St,member,0.010378221046637675,224331,2534153
+Leavitt St & Armitage Ave,Leavitt St & North Ave,member,0.010378221046637675,224068,2534153
+Clinton St & Washington Blvd,Michigan Ave & Washington St,member,0.010378221046637675,223805,2534153
+New St & Illinois St,New St & Illinois St,member,0.010378221046637675,223542,2534153
+Leavitt St & Lawrence Ave,Ravenswood Ave & Lawrence Ave,member,0.010338760130110534,225907,2534153
+Pine Grove Ave & Waveland Ave,Broadway & Belmont Ave,member,0.010338760130110534,225645,2534153
+Pine Grove Ave & Irving Park Rd,Broadway & Sheridan Rd,member,0.010338760130110534,226169,2534153
+Sedgwick St & Huron St,State St & Chicago Ave,member,0.010338760130110534,226431,2534153
+University Ave & 59th St,Ellis Ave & 55th St,casual,0.010319290559751986,229139,1366373
+Desplaines St & Kinzie St,Kingsbury St & Kinzie St 1,casual,0.010319290559751986,229421,1366373
+Kingsbury St & Erie St,Clinton St & Washington Blvd,member,0.010299299213583394,229824,2534153
+Clark St & Schiller St,State St & Chicago Ave,member,0.010299299213583394,229041,2534153
+Clark St & Elm St,Mies van der Rohe Way & Chestnut St,member,0.010299299213583394,228519,2534153
+Hermitage Ave & Polk St,Wolcott Ave & Polk St,member,0.010299299213583394,227214,2534153
+Woodlawn Ave & 58th St,Shore Dr & 55th St,member,0.010299299213583394,226953,2534153
+Clark St & Drummond Pl,Lakeview Ave & Fullerton Pkwy,member,0.010299299213583394,226692,2534153
+Financial Pl & Ida B Wells Dr,Clinton St & Madison St,member,0.010299299213583394,227475,2534153
+Broadway & Thorndale Ave,Peterson/Ridge Metra,member,0.010299299213583394,227736,2534153
+Clark St & Bryn Mawr Ave,Clark St & Winnemac Ave,member,0.010299299213583394,229563,2534153
+Hermitage Ave & Polk St,Loomis St & Lexington St,member,0.010299299213583394,229302,2534153
+State St & Harrison St,Daley Center Plaza,member,0.010299299213583394,227997,2534153
+Clinton St & Lake St,Desplaines St & Kinzie St,member,0.010299299213583394,228258,2534153
+Clark St & Lake St,State St & Pearson St,member,0.010299299213583394,228780,2534153
+Clinton St & Jackson Blvd,Peoria St & Jackson Blvd,member,0.010259838297056255,231124,2534153
+DuSable Lake Shore Dr & Monroe St,Theater on the Lake,member,0.010259838297056255,230864,2534153
+Wells St & Elm St,Kingsbury St & Kinzie St,member,0.010259838297056255,230084,2534153
+Peoria St & Jackson Blvd,Canal St & Jackson Blvd,member,0.010259838297056255,230344,2534153
+Ravenswood Ave & Lawrence Ave,Ravenswood Ave & Irving Park Rd,member,0.010259838297056255,230604,2534153
+Michigan Ave & Lake St,Cityfront Plaza Dr & Pioneer Ct,casual,0.010246104101881405,231104,1366373
+DuSable Lake Shore Dr & Belmont Ave,Michigan Ave & Oak St,member,0.010220377380529116,231383,2534153
+Kingsbury St & Erie St,State St & Chicago Ave,member,0.010220377380529116,231642,2534153
+Francisco Ave & Foster Ave,Rockwell St & Eastwood Ave,member,0.010220377380529116,231901,2534153
+University Ave & 57th St,Blackstone Ave & Hyde Park Blvd,member,0.010180916464001976,232159,2534153
+State St & Kinzie St,Rush St & Hubbard St,member,0.010180916464001976,232417,2534153
+Indiana Ave & Roosevelt Rd,Michigan Ave & 8th St,casual,0.010172917644010822,232633,1366373
+Loomis St & Lexington St,900 W Harrison St,casual,0.010172917644010822,232216,1366373
+Aberdeen St & Jackson Blvd,Loomis St & Lexington St,casual,0.010172917644010822,231243,1366373
+Mies van der Rohe Way & Chestnut St,Wabash Ave & Grand Ave,member,0.010141455547474837,232674,2534153
+May St & Taylor St,Wolcott Ave & Polk St,member,0.010141455547474837,232931,2534153
+State St & Chicago Ave,McClurg Ct & Ohio St,member,0.010101994630947698,233187,2534153
+Canal St & Jackson Blvd,Kingsbury St & Erie St,member,0.010101994630947698,233443,2534153
+Ellis Ave & 58th St,Drexel Ave & 60th St,member,0.010101994630947698,233699,2534153
+Damen Ave & Chicago Ave,Damen Ave & Wicker Park Ave,member,0.010101994630947698,233955,2534153
+Ravenswood Ave & Lawrence Ave,Winthrop Ave & Lawrence Ave,member,0.010101994630947698,234211,2534153
+Milwaukee Ave & The 606,Leavitt St & Armitage Ave,member,0.010101994630947698,234467,2534153
+Loomis St & Lexington St,Halsted St & Polk St,casual,0.010099731186140243,233185,1366373
+Harper Ave & 59th St,University Ave & 57th St,member,0.01006253371442056,234977,2534153
+Paulina St & 18th St,Racine Ave & 18th St,member,0.01006253371442056,235487,2534153
+Shore Dr & 55th St,Ellis Ave & 58th St,member,0.01006253371442056,235232,2534153
+Clinton St & Madison St,Kingsbury St & Kinzie St,member,0.01006253371442056,234722,2534153
+Ravenswood Ave & Lawrence Ave,Broadway & Wilson Ave,casual,0.01002654472826966,233734,1366373
+Paulina St & Flournoy St,Aberdeen St & Jackson Blvd,member,0.010023072797893419,236249,2534153
+Loomis St & Lexington St,Halsted St & Roosevelt Rd,member,0.010023072797893419,235995,2534153
+Damen Ave & Leland Ave,Damen Ave & Foster Ave,member,0.010023072797893419,235741,2534153
+Kingsbury St & Erie St,Sedgwick St & Huron St,member,0.009983611881366278,237767,2534153
+Loomis St & Jackson Blvd,Clinton St & Madison St,member,0.009983611881366278,236502,2534153
+Ravenswood Ave & Lawrence Ave,Lincoln Ave & Sunnyside Ave,member,0.009983611881366278,236755,2534153
+Franklin St & Lake St,Canal St & Madison St,member,0.009983611881366278,237008,2534153
+Clinton St & Madison St,Peoria St & Jackson Blvd,member,0.009983611881366278,237261,2534153
+Broadway & Argyle St,Clark St & Winnemac Ave,member,0.009983611881366278,237514,2534153
+Kingsbury St & Erie St,Clinton St & Jackson Blvd,member,0.009983611881366278,238020,2534153
+Wells St & Evergreen Ave,Wells St & Concord Ln,member,0.009983611881366278,238273,2534153
+Mies van der Rohe Way & Chestnut St,Wabash Ave & Grand Ave,casual,0.009953358270399079,234416,1366373
+Orleans St & Merchandise Mart Plaza,Kingsbury St & Erie St,member,0.00994415096483914,239533,2534153
+Clark St & Schiller St,Clark St & Schiller St,member,0.00994415096483914,240037,2534153
+Clarendon Ave & Junior Ter,Pine Grove Ave & Waveland Ave,member,0.00994415096483914,239785,2534153
+Loomis St & Lexington St,Clinton St & Madison St,member,0.00994415096483914,238525,2534153
+Clark St & Wrightwood Ave,Lincoln Ave & Fullerton Ave,member,0.00994415096483914,238777,2534153
+Clinton St & Madison St,Financial Pl & Ida B Wells Dr,member,0.00994415096483914,239029,2534153
+Theater on the Lake,DuSable Lake Shore Dr & Monroe St,member,0.00994415096483914,239281,2534153
+Wells St & Concord Ln,Wells St & Hubbard St,member,0.009904690048312,240790,2534153
+Kimbark Ave & 53rd St,Shore Dr & 55th St,member,0.009904690048312,240539,2534153
+Sheridan Rd & Montrose Ave,Sheffield Ave & Waveland Ave,member,0.009904690048312,240288,2534153
+Ellis Ave & 60th St,Woodlawn Ave & 55th St,casual,0.009880171812528496,235498,1366373
+Wells St & Huron St,Wells St & Hubbard St,casual,0.009880171812528496,235363,1366373
+Orleans St & Merchandise Mart Plaza,Wells St & Elm St,member,0.00986522913178486,242040,2534153
+Desplaines St & Kinzie St,Canal St & Madison St,member,0.00986522913178486,243040,2534153
+Canal St & Adams St,Larrabee St & Kingsbury St,member,0.00986522913178486,242290,2534153
+Sheridan Rd & Irving Park Rd,Sheffield Ave & Waveland Ave,member,0.00986522913178486,242540,2534153
+Canal St & Taylor St,Clinton St & Madison St,member,0.00986522913178486,242790,2534153
+Humboldt Blvd & Armitage Ave,California Ave & Milwaukee Ave,member,0.00986522913178486,243290,2534153
+Lakefront Trail & Wilson Ave,Lakefront Trail & Wilson Ave,member,0.00986522913178486,241040,2534153
+Clark St & Elm St,LaSalle St & Illinois St,member,0.00986522913178486,241290,2534153
+Loomis St & Lexington St,900 W Harrison St,member,0.00986522913178486,241540,2534153
+Sedgwick St & North Ave,Clybourn Ave & Division St,member,0.00986522913178486,241790,2534153
+Mies van der Rohe Way & Chicago Ave,State St & Chicago Ave,member,0.009825768215257722,246029,2534153
+MLK Jr Dr & 29th St,State St & 33rd St,member,0.009825768215257722,245780,2534153
+Wells St & Concord Ln,Stockton Dr & Wrightwood Ave,member,0.009825768215257722,246278,2534153
+Field Blvd & South Water St,Dusable Harbor,member,0.009825768215257722,243539,2534153
+Sheridan Rd & Argyle St,Marine Dr & Ainslie St,member,0.009825768215257722,243788,2534153
+Broadway & Barry Ave,DuSable Lake Shore Dr & Diversey Pkwy,member,0.009825768215257722,244037,2534153
+Kingsbury St & Kinzie St 2,Kingsbury St & Erie St,member,0.009825768215257722,244286,2534153
+Ellis Ave & 58th St,University Ave & 57th St,member,0.009825768215257722,244535,2534153
+Southport Ave & Belmont Ave,Wilton Ave & Belmont Ave,member,0.009825768215257722,244784,2534153
+Canal St & Adams St,Aberdeen St & Jackson Blvd,member,0.009825768215257722,245033,2534153
+Clinton St & Madison St,Canal St & Harrison St,member,0.009825768215257722,245282,2534153
+Cornell Ave & Hyde Park Blvd,Woodlawn Ave & 58th St,member,0.009825768215257722,245531,2534153
+Desplaines St & Kinzie St,Kingsbury St & Kinzie St,casual,0.009806985354657917,235767,1366373
+Clark St & Winnemac Ave,Ravenswood Ave & Lawrence Ave,casual,0.009806985354657917,237241,1366373
+Wells St & Hubbard St,Desplaines St & Kinzie St,casual,0.009806985354657917,236571,1366373
+Pine Grove Ave & Waveland Ave,Broadway & Cornelia Ave,member,0.009786307298730583,246774,2534153
+Clark St & Wellington Ave,Broadway & Waveland Ave,member,0.009786307298730583,246526,2534153
+Kimbark Ave & 53rd St,Cornell Ave & Hyde Park Blvd,member,0.009786307298730583,247022,2534153
+Kingsbury St & Erie St,Dearborn St & Erie St,member,0.009746846382203442,247269,2534153
+Wilton Ave & Belmont Ave,Southport Ave & Roscoe St,member,0.009746846382203442,247516,2534153
+Clark St & Lincoln Ave,Larrabee St & Webster Ave,member,0.009746846382203442,247763,2534153
+Broadway & Sheridan Rd,Broadway & Waveland Ave,member,0.009746846382203442,248010,2534153
+University Library (NU),Benson Ave & Church St,member,0.009746846382203442,248257,2534153
+Federal St & Polk St,Wabash Ave & Roosevelt Rd,casual,0.009733798896787334,239103,1366373
+Halsted St & Polk St,Clinton St & Jackson Blvd,casual,0.009733798896787334,238704,1366373
+Michigan Ave & 14th St,Calumet Ave & 18th St,member,0.009707385465676302,248503,2534153
+Orleans St & Merchandise Mart Plaza,McClurg Ct & Ohio St,member,0.009707385465676302,248749,2534153
+Clinton St & Washington Blvd,State St & Kinzie St,member,0.009707385465676302,248995,2534153
+Clark St & Ida B Wells Dr,Michigan Ave & 14th St,member,0.009707385465676302,249241,2534153
+Clinton St & Jackson Blvd,New St & Illinois St,member,0.009707385465676302,249487,2534153
+Kingsbury St & Erie St,LaSalle St & Jackson Blvd,member,0.009707385465676302,249733,2534153
+Wells St & Huron St,Michigan Ave & Pearson St,member,0.009707385465676302,249979,2534153
+Burnham Harbor,Lake Park Ave & 47th St,member,0.009667924549149163,250959,2534153
+Wabash Ave & Roosevelt Rd,Shedd Aquarium,member,0.009667924549149163,250469,2534153
+Broadway & Wilson Ave,Clark St & Leland Ave,member,0.009667924549149163,250714,2534153
+Halsted St & Roscoe St,Broadway & Waveland Ave,member,0.009667924549149163,250224,2534153
+Broadway & Granville Ave,Peterson/Ridge Metra,member,0.009667924549149163,251204,2534153
+Desplaines St & Kinzie St,Clinton St & Washington Blvd,member,0.009667924549149163,251449,2534153
+Sheridan Rd & Irving Park Rd,Broadway & Sheridan Rd,member,0.009667924549149163,251694,2534153
+Ellis Ave & 60th St,Ellis Ave & 60th St,member,0.009667924549149163,251939,2534153
+Wilton Ave & Belmont Ave,Halsted St & Roscoe St,casual,0.009660612438916753,240423,1366373
+Woodlawn Ave & 55th St,University Ave & 59th St,casual,0.009660612438916753,240027,1366373
+University Ave & 59th St,Kimbark Ave & 53rd St,casual,0.009660612438916753,239631,1366373
+Clarendon Ave & Gordon Ter,Sheridan Rd & Irving Park Rd,casual,0.009660612438916753,239763,1366373
+Wells St & Hubbard St,Desplaines St & Kinzie St,member,0.009628463632622025,252183,2534153
+Clarendon Ave & Gordon Ter,Clarendon Ave & Junior Ter,member,0.009628463632622025,252427,2534153
+New St & Illinois St,Canal St & Madison St,member,0.009628463632622025,252671,2534153
+Ellis Ave & 58th St,Shore Dr & 55th St,member,0.009628463632622025,252915,2534153
+Broadway & Berwyn Ave,Clark St & Winnemac Ave,member,0.009628463632622025,253159,2534153
+State St & Chicago Ave,Wells St & Concord Ln,member,0.009628463632622025,253403,2534153
+Canal St & Adams St,Green St & Madison St,member,0.009628463632622025,253647,2534153
+Ellis Ave & 60th St,Shore Dr & 55th St,casual,0.009587425981046171,241475,1366373
+Sheridan Rd & Irving Park Rd,Clarendon Ave & Gordon Ter,casual,0.009587425981046171,241082,1366373
+Columbus Dr & Randolph St,State St & Randolph St,casual,0.009587425981046171,241868,1366373
+Wells St & Hubbard St,Wells St & Elm St,casual,0.009587425981046171,241999,1366373
+Loomis St & Lexington St,Loomis St & Lexington St,casual,0.00951423952317559,243433,1366373
+Southport Ave & Irving Park Rd,Southport Ave & Roscoe St,casual,0.00951423952317559,243693,1366373
+Orleans St & Merchandise Mart Plaza,Wells St & Elm St,casual,0.009441053065305008,244596,1366373
+Wilton Ave & Belmont Ave,Broadway & Cornelia Ave,casual,0.009441053065305008,244338,1366373
+Clark St & Elm St,Wells St & Huron St,casual,0.009441053065305008,244725,1366373
+Clark St & Lincoln Ave,Clark St & Lincoln Ave,member,0.009352237216932048,263963,2534153
+McClurg Ct & Ohio St,Navy Pier,member,0.009312776300404908,264435,2534153
+Adler Planetarium,Adler Planetarium,member,0.009312776300404908,264671,2534153
+Michigan Ave & Jackson Blvd,Indiana Ave & Roosevelt Rd,casual,0.009221493691693264,248541,1366373
+Wilton Ave & Belmont Ave,Southport Ave & Roscoe St,casual,0.009221493691693264,248289,1366373
+Michigan Ave & Oak St,Navy Pier,member,0.00915493263429635,273101,2534153
+Blackstone Ave & 59th St,Ellis Ave & 58th St,casual,0.009075120775952102,250914,1366373
+Kedzie Ave & Palmer Ct,California Ave & Milwaukee Ave,casual,0.009075120775952102,251038,1366373
+Sedgwick St & Webster Ave,Sedgwick St & North Ave,casual,0.009075120775952102,251410,1366373
+Wells St & Huron St,Clark St & Elm St,casual,0.009075120775952102,251534,1366373
+Ellis Ave & 60th St,Woodlawn Ave & 58th St,casual,0.009001934318081519,253134,1366373
+Broadway & Waveland Ave,Broadway & Barry Ave,casual,0.009001934318081519,252765,1366373
+Ellis Ave & 55th St,Ellis Ave & 58th St,casual,0.009001934318081519,252519,1366373
+Field Blvd & South Water St,Dusable Harbor,casual,0.008855561402340357,256664,1366373
+Clifton Ave & Armitage Ave,Elston Ave & Cortland St,casual,0.008855561402340357,255333,1366373
+DuSable Lake Shore Dr & Wellington Ave,DuSable Lake Shore Dr & Diversey Pkwy,casual,0.008855561402340357,256180,1366373
+Pine Grove Ave & Irving Park Rd,Sheridan Rd & Irving Park Rd,casual,0.008782374944469776,257984,1366373
+DuSable Lake Shore Dr & Monroe St,Burnham Harbor,member,0.008760323469024956,292607,2534153
+DuSable Lake Shore Dr & North Blvd,Michigan Ave & Oak St,member,0.008760323469024956,293939,2534153
+Ravenswood Ave & Berteau Ave,Ravenswood Ave & Lawrence Ave,casual,0.008709188486599193,260128,1366373
+Wolcott Ave & Polk St,Loomis St & Lexington St,casual,0.008709188486599193,260247,1366373
+LaSalle St & Illinois St,Dearborn Pkwy & Delaware Pl,casual,0.008709188486599193,258819,1366373
+Clark St & Drummond Pl,Clark St & Armitage Ave,casual,0.008709188486599193,260009,1366373
+Sheffield Ave & Wellington Ave,Broadway & Barry Ave,casual,0.008636002028728613,260719,1366373
+DuSable Lake Shore Dr & North Blvd,Clark St & Elm St,casual,0.008636002028728613,261309,1366373
+DuSable Lake Shore Dr & Monroe St,DuSable Lake Shore Dr & North Blvd,member,0.00856301888638926,303351,2534153
+Indiana Ave & Roosevelt Rd,DuSable Lake Shore Dr & Monroe St,member,0.00856301888638926,304219,2534153
+Benson Ave & Church St,Chicago Ave & Washington St,casual,0.00856281557085803,261779,1366373
+Clark St & Lincoln Ave,Larrabee St & Webster Ave,casual,0.00856281557085803,262130,1366373
+Canal St & Madison St,Wells St & Huron St,casual,0.00856281557085803,262247,1366373
+Navy Pier,Indiana Ave & Roosevelt Rd,member,0.00852355796986212,304435,2534153
+Morgan St & Polk St,Morgan St & Polk St,casual,0.00848962911298745,262712,1366373
+Ellis Ave & 60th St,Blackstone Ave & 59th St,casual,0.00848962911298745,262944,1366373
+Chicago Ave & Sheridan Rd,Chicago Ave & Sheridan Rd,member,0.00844463613680784,309603,2534153
+Wells St & Concord Ln,Clark St & Lincoln Ave,casual,0.008416442655116868,264905,1366373
+Elston Ave & Cortland St,Sheffield Ave & Kingsbury St,casual,0.008416442655116868,264790,1366373
+Fairbanks Ct & Grand Ave,Wabash Ave & Grand Ave,casual,0.008416442655116868,263755,1366373
+Lake Park Ave & 53rd St,Ellis Ave & 55th St,casual,0.008416442655116868,263985,1366373
+Ellis Ave & 55th St,Blackstone Ave & 59th St,casual,0.008416442655116868,264560,1366373
+Clark St & Elm St,Clark St & Armitage Ave,casual,0.008416442655116868,264675,1366373
+Sheridan Rd & Irving Park Rd,Broadway & Waveland Ave,casual,0.008343256197246287,265931,1366373
+Larrabee St & Kingsbury St,Clinton St & Washington Blvd,casual,0.008343256197246287,266045,1366373
+Woodlawn Ave & 58th St,Woodlawn Ave & 55th St,casual,0.008343256197246287,265703,1366373
+Millennium Park,DuSable Lake Shore Dr & Monroe St,member,0.008326253387226423,315764,2534153
+Kingsbury St & Erie St,Kingsbury St & Erie St,casual,0.008270069739375704,266497,1366373
+Wells St & Walton St,Wells St & Hubbard St,casual,0.008270069739375704,266949,1366373
+Kimbark Ave & 53rd St,University Ave & 59th St,casual,0.008270069739375704,267966,1366373
+Sheridan Rd & Irving Park Rd,Sheridan Rd & Montrose Ave,casual,0.008196883281505123,268639,1366373
+Clark St & Wrightwood Ave,Wilton Ave & Diversey Pkwy,casual,0.008196883281505123,268975,1366373
+Southport Ave & Irving Park Rd,Sheridan Rd & Irving Park Rd,casual,0.008196883281505123,269199,1366373
+Morgan Ave & 14th Pl,Morgan St & Polk St,casual,0.008196883281505123,269871,1366373
+Navy Pier,McClurg Ct & Ohio St,member,0.008168409721117865,322443,2534153
+Broadway & Sheridan Rd,Sheridan Rd & Irving Park Rd,casual,0.008123696823634542,271428,1366373
+Woodlawn Ave & 58th St,Lake Park Ave & 56th St,casual,0.008123696823634542,270873,1366373
+MLK Jr Dr & 29th St,State St & 33rd St,casual,0.008123696823634542,270984,1366373
+Clinton St & Madison St,Franklin St & Jackson Blvd,casual,0.008123696823634542,271206,1366373
+Clark St & Armitage Ave,Lincoln Ave & Fullerton Ave,casual,0.008123696823634542,271317,1366373
+Woodlawn Ave & 58th St,Blackstone Ave & 59th St,casual,0.008050510365763961,272309,1366373
+Calumet Ave & 18th St,Calumet Ave & 18th St,member,0.008010566055009306,334968,2534153
+Broadway & Barry Ave,Broadway & Waveland Ave,casual,0.007977323907893378,273625,1366373
+Broadway & Waveland Ave,Sheridan Rd & Montrose Ave,casual,0.007977323907893378,273843,1366373
+Theater on the Lake,DuSable Lake Shore Dr & North Blvd,member,0.007971105138482168,338414,2534153
+University Ave & 59th St,Blackstone Ave & 59th St,casual,0.007904137450022797,275364,1366373
+Dusable Harbor,Michigan Ave & Oak St,member,0.007892183305427888,341635,2534153
+Millennium Park,Michigan Ave & 8th St,member,0.007892183305427888,342035,2534153
+Wells St & Elm St,State St & Chicago Ave,casual,0.007830950992152216,277409,1366373
+Pine Grove Ave & Waveland Ave,Wilton Ave & Addison St,casual,0.007830950992152216,277623,1366373
+Racine Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,casual,0.007830950992152216,277730,1366373
+Sedgwick St & North Ave,Sedgwick St & Webster Ave,casual,0.007830950992152216,278265,1366373
+Adler Planetarium,Shedd Aquarium,member,0.00777380055584647,348203,2534153
+Kingsbury St & Kinzie St,Desplaines St & Kinzie St,casual,0.007757764534281634,278690,1366373
+Kingsbury St & Kinzie St,Dearborn Pkwy & Delaware Pl,casual,0.007757764534281634,279114,1366373
+Broadway & Berwyn Ave,Clark St & Winnemac Ave,casual,0.007757764534281634,279326,1366373
+Wabash Ave & Grand Ave,McClurg Ct & Ohio St,casual,0.007757764534281634,279538,1366373
+Woodlawn Ave & 58th St,Shore Dr & 55th St,casual,0.007757764534281634,280068,1366373
+Wilton Ave & Belmont Ave,Broadway & Belmont Ave,casual,0.007757764534281634,280280,1366373
+Halsted St & Roscoe St,Wilton Ave & Belmont Ave,casual,0.007757764534281634,279220,1366373
+Navy Pier,Fairbanks Ct & Grand Ave,member,0.007694878722792191,354677,2534153
+Paulina St & 18th St,Racine Ave & 18th St,casual,0.007684578076411054,280490,1366373
+LaSalle St & Jackson Blvd,Canal St & Madison St,casual,0.007684578076411054,281855,1366373
+Damen Ave & Foster Ave,Ravenswood Ave & Lawrence Ave,casual,0.007684578076411054,282170,1366373
+Field Blvd & South Water St,Field Blvd & South Water St,member,0.007655417806265052,358372,2534153
+Desplaines St & Kinzie St,Wells St & Hubbard St,casual,0.007611391618540472,282796,1366373
+Sheridan Rd & Irving Park Rd,Pine Grove Ave & Irving Park Rd,casual,0.007611391618540472,282692,1366373
+Peoria St & Jackson Blvd,Clinton St & Jackson Blvd,casual,0.007611391618540472,282588,1366373
+Navy Pier,DuSable Lake Shore Dr & Diversey Pkwy,member,0.007576495973210772,362618,2534153
+Halsted St & Maxwell St,Morgan St & Polk St,casual,0.00753820516066989,285895,1366373
+Kingsbury St & Kinzie St,Clinton St & Washington Blvd,casual,0.00753820516066989,286616,1366373
+Kimbark Ave & 53rd St,Ellis Ave & 58th St,casual,0.00753820516066989,283835,1366373
+Loomis St & Lexington St,Halsted St & Roosevelt Rd,casual,0.00753820516066989,285380,1366373
+Ellis Ave & 55th St,Harper Ave & 55th St,casual,0.00753820516066989,286513,1366373
+Clark St & Leland Ave,Ravenswood Ave & Lawrence Ave,casual,0.0074650187027993095,288558,1366373
+University Ave & 57th St,Woodlawn Ave & 55th St,casual,0.0074650187027993095,287334,1366373
+Kimbark Ave & 53rd St,Woodlawn Ave & 55th St,casual,0.0074650187027993095,287742,1366373
+Clark St & Armitage Ave,Clark St & Elm St,casual,0.0074650187027993095,288456,1366373
+Wabash Ave & Roosevelt Rd,Wabash Ave & Roosevelt Rd,member,0.007458113223629355,369845,2534153
+Dusable Harbor,Theater on the Lake,member,0.007418652307102215,373046,2534153
+Southport Ave & Irving Park Rd,Southport Ave & Waveland Ave,casual,0.0073918322449287276,290075,1366373
+Columbus Dr & Randolph St,Columbus Dr & Randolph St,member,0.007379191390575076,373421,2534153
+Dusable Harbor,Navy Pier,member,0.007379191390575076,374169,2534153
+DuSable Lake Shore Dr & Monroe St,Shedd Aquarium,member,0.007339730474047936,376411,2534153
+DuSable Lake Shore Dr & North Blvd,DuSable Lake Shore Dr & Monroe St,member,0.007339730474047936,377899,2534153
+Indiana Ave & Roosevelt Rd,Shedd Aquarium,member,0.007339730474047936,378085,2534153
+Navy Pier,Millennium Park,member,0.007339730474047936,378457,2534153
+Broadway & Waveland Ave,Clarendon Ave & Gordon Ter,casual,0.007318645787058146,290175,1366373
+Ravenswood Ave & Lawrence Ave,Winthrop Ave & Lawrence Ave,casual,0.007318645787058146,290275,1366373
+Mies van der Rohe Way & Chestnut St,State St & Chicago Ave,casual,0.007318645787058146,291175,1366373
+Ellis Ave & 53rd St,Ellis Ave & 55th St,casual,0.007318645787058146,291475,1366373
+Dusable Harbor,DuSable Lake Shore Dr & Monroe St,member,0.007300269557520797,380494,2534153
+Drexel Ave & 60th St,University Ave & 57th St,casual,0.007245459329187565,293265,1366373
+Wabash Ave & 9th St,Wabash Ave & 9th St,member,0.007181886807939379,385083,2534153
+Dusable Harbor,DuSable Lake Shore Dr & North Blvd,member,0.007181886807939379,387631,2534153
+McClurg Ct & Ohio St,Fairbanks Ct & Grand Ave,casual,0.007172272871316983,295428,1366373
+Daley Center Plaza,Dearborn Pkwy & Delaware Pl,casual,0.007172272871316983,296506,1366373
+Daley Center Plaza,Federal St & Polk St,casual,0.007172272871316983,296212,1366373
+Wells St & Walton St,Wells St & Huron St,casual,0.007172272871316983,294448,1366373
+Daley Center Plaza,Canal St & Madison St,casual,0.007172272871316983,294938,1366373
+Broadway & Cornelia Ave,Broadway & Barry Ave,casual,0.007172272871316983,295134,1366373
+DuSable Lake Shore Dr & North Blvd,Theater on the Lake,member,0.007142425891412238,388717,2534153
+Wabash Ave & Roosevelt Rd,Federal St & Polk St,casual,0.007099086413446401,297088,1366373
+Wabash Ave & Adams St,Canal St & Madison St,casual,0.007099086413446401,296894,1366373
+Ellis Ave & 53rd St,Ellis Ave & 58th St,casual,0.007099086413446401,298737,1366373
+Loomis St & Lexington St,Wolcott Ave & Polk St,casual,0.007099086413446401,297573,1366373
+Ravenswood Ave & Lawrence Ave,Ravenswood Ave & Berteau Ave,casual,0.007099086413446401,297670,1366373
+Clarendon Ave & Junior Ter,Broadway & Sheridan Rd,casual,0.007099086413446401,297864,1366373
+Shields Ave & 31st St,Wentworth Ave & 33rd St,casual,0.007099086413446401,298349,1366373
+Cornell Ave & Hyde Park Blvd,Ellis Ave & 55th St,casual,0.007099086413446401,298543,1366373
+Pine Grove Ave & Irving Park Rd,Broadway & Cornelia Ave,casual,0.007025899955575819,300084,1366373
+Clarendon Ave & Gordon Ter,Broadway & Waveland Ave,casual,0.007025899955575819,300276,1366373
+Humboldt Blvd & Armitage Ave,California Ave & Milwaukee Ave,casual,0.007025899955575819,300372,1366373
+Lake Park Ave & 56th St,Woodlawn Ave & 58th St,casual,0.007025899955575819,299220,1366373
+Broadway & Barry Ave,Broadway & Cornelia Ave,casual,0.006952713497705239,301992,1366373
+Blackstone Ave & 59th St,Woodlawn Ave & 58th St,casual,0.006952713497705239,301232,1366373
+Adler Planetarium,DuSable Lake Shore Dr & Monroe St,member,0.006945121308776542,404952,2534153
+Sheridan Rd & Irving Park Rd,Sheridan Rd & Buena Ave,casual,0.006879527039834657,304261,1366373
+Canal St & Monroe St,Michigan Ave & Washington St,casual,0.006879527039834657,303885,1366373
+Leavitt St & Lawrence Ave,Ravenswood Ave & Lawrence Ave,casual,0.006879527039834657,305671,1366373
+Federal St & Polk St,Franklin St & Jackson Blvd,casual,0.006806340581964075,306788,1366373
+Sheridan Rd & Montrose Ave,Broadway & Waveland Ave,casual,0.006806340581964075,308555,1366373
+Ellis Ave & 58th St,Ellis Ave & 60th St,casual,0.006806340581964075,307532,1366373
+Kingsbury St & Erie St,Clinton St & Washington Blvd,casual,0.006806340581964075,306602,1366373
+Damen Ave & Leland Ave,Ravenswood Ave & Lawrence Ave,casual,0.006733154124093495,309384,1366373
+State St & Chicago Ave,Wells St & Huron St,casual,0.006733154124093495,309108,1366373
+Michigan Ave & Washington St,Columbus Dr & Randolph St,casual,0.006733154124093495,309660,1366373
+Sheffield Ave & Fullerton Ave,Clark St & Wrightwood Ave,casual,0.006659967666222913,311682,1366373
+Clark St & Elm St,Clark St & Chicago Ave,casual,0.006659967666222913,313138,1366373
+Aberdeen St & Jackson Blvd,Peoria St & Jackson Blvd,casual,0.006659967666222913,311864,1366373
+Dearborn Pkwy & Delaware Pl,LaSalle St & Illinois St,casual,0.006659967666222913,312956,1366373
+Ellis Ave & 58th St,Ellis Ave & 55th St,casual,0.006659967666222913,314230,1366373
+Orleans St & Merchandise Mart Plaza,Kingsbury St & Erie St,casual,0.006659967666222913,314048,1366373
+Shedd Aquarium,DuSable Lake Shore Dr & Monroe St,member,0.006629433976559427,428512,2534153
+New St & Illinois St,Navy Pier,member,0.006589973060032287,431534,2534153
+Federal St & Polk St,Daley Center Plaza,casual,0.006586781208352331,316300,1366373
+Pine Grove Ave & Waveland Ave,Broadway & Belmont Ave,casual,0.006586781208352331,315850,1366373
+Clinton St & Lake St,Canal St & Jackson Blvd,casual,0.006586781208352331,316210,1366373
+Clark St & Newport St,Wilton Ave & Belmont Ave,casual,0.006513594750481751,316747,1366373
+Sheridan Rd & Columbia Ave,Sheridan Rd & Loyola Ave,casual,0.006513594750481751,317103,1366373
+Shields Ave & 31st St,Emerald Ave & 31st St,casual,0.006513594750481751,317370,1366373
+Woodlawn Ave & 58th St,Ellis Ave & 60th St,casual,0.006513594750481751,318527,1366373
+State St & Chicago Ave,Mies van der Rohe Way & Chestnut St,casual,0.006513594750481751,318616,1366373
+Sheffield Ave & Kingsbury St,Elston Ave & Cortland St,casual,0.006513594750481751,318794,1366373
+Federal St & Polk St,Wabash Ave & 16th St,casual,0.006513594750481751,319417,1366373
+New St & Illinois St,Canal St & Madison St,casual,0.006440408292611169,321356,1366373
+Southport Ave & Belmont Ave,Wilton Ave & Belmont Ave,casual,0.006440408292611169,320212,1366373
+Kingsbury St & Erie St,Kingsbury St & Kinzie St,casual,0.006440408292611169,320388,1366373
+Navy Pier,Wabash Ave & Grand Ave,member,0.006432129393923729,446069,2534153
+Clinton St & Jackson Blvd,Clinton St & Lake St,casual,0.006367221834740587,323276,1366373
+Woodlawn Ave & 58th St,Lake Park Ave & 53rd St,casual,0.006367221834740587,322406,1366373
+Ellis Ave & 55th St,Lake Park Ave & 53rd St,casual,0.006367221834740587,323972,1366373
+Dorchester Ave & 53rd St,University Ave & 57th St,casual,0.006367221834740587,323363,1366373
+Ellis Ave & 55th St,University Ave & 57th St,casual,0.0062940353768700065,326469,1366373
+St. Louis Ave & Fullerton Ave,Kedzie Ave & Milwaukee Ave,casual,0.0062940353768700065,326641,1366373
+May St & Taylor St,Wolcott Ave & Polk St,casual,0.0062940353768700065,327071,1366373
+Cornell Ave & Hyde Park Blvd,Woodlawn Ave & 55th St,casual,0.0062940353768700065,324749,1366373
+Sheridan Rd & Irving Park Rd,Southport Ave & Irving Park Rd,casual,0.0062940353768700065,325093,1366373
+Damen Ave & Chicago Ave,Damen Ave & Wicker Park Ave,casual,0.0062940353768700065,326555,1366373
+Mies van der Rohe Way & Chestnut St,Mies van der Rohe Way & Chestnut St,member,0.0062348248112880315,463569,2534153
+DuSable Lake Shore Dr & Monroe St,Adler Planetarium,member,0.0062348248112880315,462779,2534153
+Ellis Ave & 53rd St,Lake Park Ave & 53rd St,casual,0.0062208489189994245,329197,1366373
+Southport Ave & Waveland Ave,Southport Ave & Roscoe St,casual,0.0062208489189994245,329282,1366373
+McClurg Ct & Ohio St,Wabash Ave & Grand Ave,casual,0.0062208489189994245,327412,1366373
+Griffin Museum of Science and Industry,University Ave & 57th St,casual,0.0062208489189994245,328347,1366373
+Franklin St & Jackson Blvd,Canal St & Madison St,casual,0.0062208489189994245,328432,1366373
+State St & Randolph St,Canal St & Madison St,casual,0.0062208489189994245,328602,1366373
+DuSable Lake Shore Dr & North Blvd,Dusable Harbor,member,0.006195363894760893,466873,2534153
+Kingsbury St & Kinzie St,Clinton St & Madison St,casual,0.0061476624611288425,331389,1366373
+State St & Chicago Ave,Wells St & Concord Ln,casual,0.0061476624611288425,332733,1366373
+Kingsbury St & Kinzie St 2,Desplaines St & Kinzie St,casual,0.0061476624611288425,331809,1366373
+Clark St & Armitage Ave,Wells St & Concord Ln,casual,0.0061476624611288425,332061,1366373
+Ellis Ave & 55th St,Ellis Ave & 53rd St,casual,0.0061476624611288425,330465,1366373
+Wolcott Ave & Polk St,Morgan St & Polk St,casual,0.0061476624611288425,330885,1366373
+Ellis Ave & 55th St,Woodlawn Ave & 55th St,casual,0.0061476624611288425,331053,1366373
+DuSable Lake Shore Dr & Monroe St,Michigan Ave & Oak St,member,0.006076981145179474,475568,2534153
+Halsted St & Polk St,Loomis St & Lexington St,casual,0.006074476003258261,333150,1366373
+University Ave & 57th St,Blackstone Ave & Hyde Park Blvd,casual,0.006074476003258261,333233,1366373
+Kingsbury St & Erie St,Orleans St & Merchandise Mart Plaza,casual,0.006074476003258261,333565,1366373
+Ellis Ave & 58th St,Blackstone Ave & 59th St,casual,0.006074476003258261,332984,1366373
+Emerald Ave & 31st St,Shields Ave & 31st St,casual,0.006074476003258261,333067,1366373
+Harper Ave & 55th St,Ellis Ave & 55th St,casual,0.006001289545387679,336046,1366373
+Wabash Ave & 16th St,Federal St & Polk St,casual,0.006001289545387679,336702,1366373
+Clinton St & Lake St,Canal St & Adams St,casual,0.006001289545387679,335882,1366373
+Clinton St & Tilden St,Clinton St & Madison St,casual,0.006001289545387679,336128,1366373
+Southport Ave & Waveland Ave,Southport Ave & Irving Park Rd,casual,0.006001289545387679,338096,1366373
+Wabash Ave & Grand Ave,Wabash Ave & Grand Ave,member,0.0059980593121251955,480931,2534153
+DuSable Lake Shore Dr & Monroe St,Millennium Park,member,0.005958598395598056,486526,2534153
+State St & Chicago Ave,Clark St & Schiller St,casual,0.005928103087517098,340131,1366373
+Wells St & Huron St,State St & Chicago Ave,casual,0.005928103087517098,341994,1366373
+Ravenswood Ave & Lawrence Ave,Ravenswood Ave & Irving Park Rd,casual,0.005928103087517098,341427,1366373
+Wells St & Huron St,Kingsbury St & Kinzie St,casual,0.005928103087517098,341346,1366373
+Clark St & Bryn Mawr Ave,Clark St & Winnemac Ave,casual,0.005928103087517098,339564,1366373
+Sheridan Rd & Buena Ave,Sheridan Rd & Irving Park Rd,casual,0.005928103087517098,339645,1366373
+Navy Pier,DuSable Lake Shore Dr & Belmont Ave,member,0.005919137479070916,491776,2534153
+Wolcott Ave & Polk St,May St & Taylor St,casual,0.005854916629646517,343762,1366373
+Morgan St & Polk St,Halsted St & Maxwell St,casual,0.005854916629646517,344242,1366373
+Clark St & Wrightwood Ave,Sheffield Ave & Fullerton Ave,casual,0.005854916629646517,346162,1366373
+New St & Illinois St,State St & Kinzie St,casual,0.005854916629646517,344722,1366373
+Wells St & Evergreen Ave,Wells St & Concord Ln,casual,0.005854916629646517,346322,1366373
+Michigan Ave & Lake St,Columbus Dr & Randolph St,casual,0.005854916629646517,343282,1366373
+Damen Ave & Thomas St (Augusta Blvd),Damen Ave & Wicker Park Ave,casual,0.005781730171775935,347823,1366373
+Kimbark Ave & 53rd St,Lake Park Ave & 53rd St,casual,0.005781730171775935,348297,1366373
+Ravenswood Ave & Lawrence Ave,Clark St & Leland Ave,casual,0.005781730171775935,348376,1366373
+Desplaines St & Kinzie St,Clinton St & Washington Blvd,casual,0.005781730171775935,349166,1366373
+Wabash Ave & Roosevelt Rd,Wabash Ave & 9th St,casual,0.005781730171775935,346559,1366373
+Millennium Park,Navy Pier,member,0.005761293812962359,507267,2534153
+Michigan Ave & 8th St,Navy Pier,member,0.005761293812962359,505661,2534153
+Broadway & Argyle St,Clark St & Winnemac Ave,casual,0.005708543713905354,350883,1366373
+Wells St & Concord Ln,Clark St & Elm St,casual,0.005708543713905354,350493,1366373
+Drexel Ave & 60th St,Ellis Ave & 55th St,casual,0.005708543713905354,350103,1366373
+DuSable Lake Shore Dr & Belmont Ave,Navy Pier,member,0.005642911063380941,519249,2534153
+Indiana Ave & Roosevelt Rd,Navy Pier,member,0.005642911063380941,520250,2534153
+Shore Dr & 55th St,Woodlawn Ave & 58th St,casual,0.005635357256034773,352129,1366373
+Woodlawn Ave & 55th St,Ellis Ave & 55th St,casual,0.005635357256034773,352822,1366373
+Kingsbury St & Kinzie St,Clinton St & Jackson Blvd,casual,0.005635357256034773,353746,1366373
+Wilton Ave & Diversey Pkwy,Hampden Ct & Diversey Pkwy,casual,0.005635357256034773,354824,1366373
+Harper Ave & 55th St,Woodlawn Ave & 55th St,casual,0.005562170798164191,358188,1366373
+May St & Taylor St,Wood St & Taylor St (Temp),casual,0.005562170798164191,358872,1366373
+Ellis Ave & 55th St,Lake Park Ave & 56th St,casual,0.005562170798164191,359252,1366373
+Dearborn Pkwy & Delaware Pl,Clark St & Elm St,casual,0.005562170798164191,361000,1366373
+Woodlawn Ave & 58th St,Ellis Ave & 55th St,casual,0.00548898434029361,363326,1366373
+Wells St & Concord Ln,Clark St & Armitage Ave,casual,0.00548898434029361,364226,1366373
+Claremont Ave & Hirsch St,Damen Ave & Pierce Ave,casual,0.00548898434029361,364151,1366373
+Ellis Ave & 55th St,Woodlawn Ave & 58th St,casual,0.00548898434029361,363851,1366373
+Broadway & Cornelia Ave,Pine Grove Ave & Irving Park Rd,casual,0.00548898434029361,363026,1366373
+Damen Ave & Pierce Ave,Claremont Ave & Hirsch St,casual,0.00548898434029361,362426,1366373
+Damen Ave & Pierce Ave,Damen Ave & Division St,casual,0.00548898434029361,362201,1366373
+Clark St & Elm St,Clark St & Schiller St,casual,0.00548898434029361,361376,1366373
+McClurg Ct & Erie St,McClurg Ct & Erie St,member,0.005445606480745243,539927,2534153
+Lincoln Park Conservatory,Lincoln Park Conservatory,member,0.005445606480745243,544757,2534153
+Calumet Ave & 33rd St,State St & 35th St,casual,0.005415797882423028,365269,1366373
+Kimbark Ave & 53rd St,Ellis Ave & 53rd St,casual,0.005415797882423028,366009,1366373
+State St & Chicago Ave,Clark St & Elm St,casual,0.005415797882423028,367933,1366373
+Shedd Aquarium,Navy Pier,member,0.005406145564218104,549279,2534153
+Ellis Ave & 58th St,Harper Ave & 59th St,casual,0.005342611424552447,369979,1366373
+Canal St & Adams St,Aberdeen St & Jackson Blvd,casual,0.005342611424552447,369687,1366373
+Paulina St & Montrose Ave,Ravenswood Ave & Lawrence Ave,casual,0.005342611424552447,368592,1366373
+University Ave & 57th St,Ellis Ave & 55th St,casual,0.005342611424552447,368154,1366373
+Walsh Park,Walsh Park,member,0.005287762814636685,561701,2534153
+Navy Pier,Shedd Aquarium,member,0.005287762814636685,561969,2534153
+Clinton St & Madison St,Clinton St & Jackson Blvd,casual,0.005269424966681866,373608,1366373
+Wilton Ave & Belmont Ave,Southport Ave & Belmont Ave,casual,0.005269424966681866,374328,1366373
+Clinton St & Jackson Blvd,Halsted St & Polk St,casual,0.005196238508811284,377550,1366373
+Broadway & Ridge Ave,Clark St & Bryn Mawr Ave,casual,0.005196238508811284,376698,1366373
+Wells St & Huron St,Wells St & Walton St,casual,0.005196238508811284,377834,1366373
+Broadway & Thorndale Ave,Peterson/Ridge Metra,casual,0.005196238508811284,380390,1366373
+Lake Park Ave & 53rd St,Woodlawn Ave & 58th St,casual,0.005196238508811284,379396,1366373
+Clinton St & Jackson Blvd,Peoria St & Jackson Blvd,casual,0.0051230520509407025,381236,1366373
+Ravenswood Ave & Lawrence Ave,Lincoln Ave & Sunnyside Ave,casual,0.0051230520509407025,383756,1366373
+Wilton Ave & Belmont Ave,Broadway & Waveland Ave,casual,0.0051230520509407025,382356,1366373
+Sheridan Rd & Montrose Ave,Sheridan Rd & Irving Park Rd,casual,0.0051230520509407025,381586,1366373
+Clark St & Elm St,Mies van der Rohe Way & Chestnut St,casual,0.0051230520509407025,381096,1366373
+Sheffield Ave & Fullerton Ave,Sheffield Ave & Wrightwood Ave,casual,0.0051230520509407025,384316,1366373
+Sheffield Ave & Fullerton Ave,Racine Ave & Wrightwood Ave,casual,0.0051230520509407025,383616,1366373
+Sheridan Rd & Irving Park Rd,Sheffield Ave & Waveland Ave,casual,0.0051230520509407025,381446,1366373
+Michigan Ave & Lake St,Michigan Ave & Lake St,member,0.005050997315473849,590619,2534153
+Broadway & Waveland Ave,Wilton Ave & Belmont Ave,casual,0.005049865593070121,385010,1366373
+Cornell Ave & Hyde Park Blvd,Woodlawn Ave & 58th St,casual,0.005049865593070121,386735,1366373
+Peoria St & Jackson Blvd,Canal St & Jackson Blvd,casual,0.005049865593070121,386045,1366373
+Woodlawn Ave & 58th St,University Ave & 57th St,casual,0.005049865593070121,386666,1366373
+Millennium Park,Millennium Park,member,0.0050115363989467095,595725,2534153
+Southport Ave & Roscoe St,Southport Ave & Waveland Ave,casual,0.004976679135199539,390759,1366373
+Wabash Ave & Roosevelt Rd,Wells St & Polk St,casual,0.004976679135199539,388039,1366373
+Federal St & Polk St,Indiana Ave & Roosevelt Rd,casual,0.004976679135199539,390215,1366373
+Sheridan Rd & Argyle St,Marine Dr & Ainslie St,casual,0.004976679135199539,389739,1366373
+Mies van der Rohe Way & Chestnut St,Clark St & Elm St,casual,0.004976679135199539,389399,1366373
+Kimbark Ave & 53rd St,Cornell Ave & Hyde Park Blvd,casual,0.004976679135199539,391099,1366373
+Rhodes Ave & 32nd St,State St & 33rd St,casual,0.004976679135199539,388175,1366373
+Aberdeen St & Jackson Blvd,Desplaines St & Jackson Blvd,casual,0.004976679135199539,387767,1366373
+May St & Taylor St,Morgan St & Polk St,casual,0.004976679135199539,391031,1366373
+Kingsbury St & Erie St,Dearborn St & Erie St,casual,0.004903492677328958,392849,1366373
+Pine Grove Ave & Irving Park Rd,Pine Grove Ave & Waveland Ave,casual,0.004903492677328958,392179,1366373
+Clark St & Winnemac Ave,Broadway & Argyle St,casual,0.004903492677328958,393586,1366373
+McClurg Ct & Ohio St,Mies van der Rohe Way & Chestnut St,casual,0.004830306219458376,395580,1366373
+May St & Taylor St,Loomis St & Lexington St,casual,0.004830306219458376,396900,1366373
+Clinton St & Jackson Blvd,Clinton St & Madison St,casual,0.004830306219458376,394656,1366373
+Broadway & Waveland Ave,Sheridan Rd & Irving Park Rd,casual,0.004830306219458376,394920,1366373
+Sheridan Rd & Montrose Ave,Clarendon Ave & Gordon Ter,casual,0.004757119761587795,400157,1366373
+Clarendon Ave & Junior Ter,Pine Grove Ave & Waveland Ave,casual,0.004757119761587795,398337,1366373
+Ellis Ave & 60th St,University Ave & 59th St,casual,0.004757119761587795,399962,1366373
+Wells St & Concord Ln,Wells St & Hubbard St,casual,0.004757119761587795,398922,1366373
+Hampden Ct & Diversey Pkwy,Wilton Ave & Diversey Pkwy,casual,0.004683933303717214,401647,1366373
+Ellis Ave & 55th St,Cornell Ave & Hyde Park Blvd,casual,0.004683933303717214,401455,1366373
+Michigan Ave & 14th St,Wabash Ave & Roosevelt Rd,casual,0.004683933303717214,402991,1366373
+Clark St & Elm St,State St & Chicago Ave,casual,0.004683933303717214,403439,1366373
+University Ave & 59th St,University Ave & 57th St,casual,0.004683933303717214,404911,1366373
+State St & Kinzie St,New St & Illinois St,casual,0.004683933303717214,405487,1366373
+Clark St & Schiller St,Clark St & Elm St,casual,0.004683933303717214,405807,1366373
+Michigan Ave & 8th St,Michigan Ave & 8th St,member,0.004656388150202454,639350,2534153
+Michigan Ave & Oak St,DuSable Lake Shore Dr & Monroe St,member,0.004656388150202454,640648,2534153
+Clinton St & Madison St,Kingsbury St & Kinzie St,casual,0.004610746845846632,405996,1366373
+Ellis Ave & 53rd St,Kimbark Ave & 53rd St,casual,0.004610746845846632,409083,1366373
+State St & Chicago Ave,McClurg Ct & Ohio St,casual,0.004537560387976051,413505,1366373
+Desplaines St & Kinzie St,Kingsbury St & Erie St,casual,0.004537560387976051,410901,1366373
+Campbell Ave & Montrose Ave,Ravenswood Ave & Lawrence Ave,casual,0.004537560387976051,410715,1366373
+Wabash Ave & Grand Ave,Navy Pier,member,0.004498544484093896,663406,2534153
+Clinton St & Jackson Blvd,Clark St & Lake St,casual,0.004464373930105469,419861,1366373
+Clark St & Wellington Ave,Broadway & Waveland Ave,casual,0.004464373930105469,419373,1366373
+Sheffield Ave & Wrightwood Ave,Sheffield Ave & Fullerton Ave,casual,0.004464373930105469,418946,1366373
+Pine Grove Ave & Waveland Ave,Pine Grove Ave & Irving Park Rd,casual,0.004464373930105469,417543,1366373
+Wells St & Concord Ln,Stockton Dr & Wrightwood Ave,casual,0.004464373930105469,414432,1366373
+Wells St & Huron St,Clinton St & Washington Blvd,casual,0.004464373930105469,416262,1366373
+Shedd Aquarium,Indiana Ave & Roosevelt Rd,member,0.004419622651039618,677639,2534153
+Halsted St & Roscoe St,Broadway & Waveland Ave,casual,0.004391187472234888,420343,1366373
+Wells St & Elm St,Wells St & Walton St,casual,0.004391187472234888,423283,1366373
+Wabash Ave & Roosevelt Rd,Calumet Ave & 18th St,casual,0.004391187472234888,422803,1366373
+Southport Ave & Roscoe St,Southport Ave & Irving Park Rd,casual,0.004391187472234888,422563,1366373
+Lake Park Ave & 56th St,Ellis Ave & 55th St,casual,0.004391187472234888,422383,1366373
+Clark St & Bryn Mawr Ave,Broadway & Ridge Ave,casual,0.004391187472234888,420223,1366373
+Harper Ave & 59th St,University Ave & 57th St,casual,0.004318001014364307,429259,1366373
+Broadway & Wilson Ave,Clark St & Leland Ave,casual,0.004318001014364307,425070,1366373
+Broadway & Waveland Ave,Pine Grove Ave & Irving Park Rd,casual,0.004318001014364307,426722,1366373
+Larrabee St & Kingsbury St,State St & Chicago Ave,casual,0.004318001014364307,425601,1366373
+Wells St & Concord Ln,Wells St & Evergreen Ave,casual,0.004318001014364307,425129,1366373
+State St & Chicago Ave,Kingsbury St & Erie St,casual,0.004244814556493725,433559,1366373
+Clark St & Lake St,Canal St & Adams St,casual,0.004244814556493725,430427,1366373
+Canal St & Madison St,Columbus Dr & Randolph St,casual,0.004244814556493725,431471,1366373
+Canal St & Madison St,Wabash Ave & Adams St,casual,0.004171628098623144,434306,1366373
+Clinton St & Madison St,Peoria St & Jackson Blvd,casual,0.004171628098623144,438980,1366373
+University Ave & 57th St,University Ave & 59th St,casual,0.004171628098623144,438125,1366373
+Broadway & Sunnyside Ave,Clarendon Ave & Gordon Ter,casual,0.004171628098623144,436700,1366373
+Delano Ct & Roosevelt Rd,Wabash Ave & Roosevelt Rd,casual,0.004171628098623144,436643,1366373
+Sheffield Ave & Webster Ave,Larrabee St & Webster Ave,casual,0.004171628098623144,436244,1366373
+Canal St & Madison St,LaSalle St & Jackson Blvd,casual,0.004171628098623144,435788,1366373
+Peterson/Ridge Metra,Western Ave & Granville Ave,casual,0.004171628098623144,434933,1366373
+Michigan Ave & Washington St,Michigan Ave & Washington St,member,0.004103935318822503,729730,2534153
+Aberdeen St & Monroe St,Jefferson St & Monroe St,casual,0.004098441640752562,443236,1366373
+Canal St & Madison St,State St & Chicago Ave,casual,0.004098441640752562,439540,1366373
+Clinton St & Washington Blvd,Desplaines St & Kinzie St,casual,0.0040252551828819805,445776,1366373
+Morgan St & Polk St,Clinton St & Madison St,casual,0.0040252551828819805,446436,1366373
+Sedgwick St & Huron St,State St & Chicago Ave,casual,0.0040252551828819805,447206,1366373
+Sheridan Rd & Irving Park Rd,Pine Grove Ave & Waveland Ave,casual,0.0040252551828819805,447481,1366373
+Kingsbury St & Kinzie St,Kingsbury St & Erie St,casual,0.0040252551828819805,445281,1366373
+Clarendon Ave & Junior Ter,Clarendon Ave & Gordon Ter,casual,0.0039520687250113986,449718,1366373
+Michigan Ave & 14th St,Calumet Ave & 18th St,casual,0.0039520687250113986,450420,1366373
+Kedzie Ave & Palmer Ct,Kedzie Ave & Milwaukee Ave,casual,0.0039520687250113986,451716,1366373
+Lake Park Ave & 56th St,Ellis Ave & 58th St,casual,0.0039520687250113986,451986,1366373
+Pine Grove Ave & Irving Park Rd,Broadway & Waveland Ave,casual,0.0039520687250113986,452418,1366373
+Cannon Dr & Fullerton Ave,Cannon Dr & Fullerton Ave,member,0.003946091652713944,754532,2534153
+Cherry Ave & Blackhawk St,Elston Ave & Cortland St,casual,0.003878882267140817,456910,1366373
+Aberdeen St & Jackson Blvd,Clinton St & Jackson Blvd,casual,0.003878882267140817,457970,1366373
+Sheffield Ave & Wellington Ave,Ashland Ave & Wellington Ave,casual,0.003878882267140817,458924,1366373
+Wilton Ave & Belmont Ave,Clark St & Newport St,casual,0.003878882267140817,456857,1366373
+University Ave & 59th St,Ellis Ave & 60th St,casual,0.003878882267140817,456486,1366373
+Racine Ave & Belmont Ave,Wilton Ave & Belmont Ave,casual,0.003878882267140817,458182,1366373
+Griffin Museum of Science and Industry,Griffin Museum of Science and Industry,member,0.003867169819659665,769643,2534153
+LaSalle St & Illinois St,LaSalle St & Illinois St,member,0.003867169819659665,765625,2534153
+Shedd Aquarium,Shedd Aquarium,member,0.003827708903132526,775675,2534153
+State St & Chicago Ave,Sedgwick St & Huron St,casual,0.003805695809270236,461656,1366373
+Columbus Dr & Randolph St,Daley Center Plaza,casual,0.003805695809270236,463580,1366373
+Wells St & Elm St,Kingsbury St & Kinzie St,casual,0.003805695809270236,463788,1366373
+Clark St & Armitage Ave,Navy Pier,member,0.003748787070078247,789872,2534153
+Morgan St & Polk St,Wolcott Ave & Polk St,casual,0.0037325093513996548,471231,1366373
+Pine Grove Ave & Waveland Ave,Broadway & Cornelia Ave,casual,0.0037325093513996548,467610,1366373
+Wood St & Taylor St (Temp),May St & Taylor St,casual,0.0037325093513996548,470415,1366373
+Broadway & Cornelia Ave,Wilton Ave & Addison St,casual,0.003659322893529073,475952,1366373
+Broadway & Barry Ave,DuSable Lake Shore Dr & Diversey Pkwy,casual,0.003659322893529073,477852,1366373
+Francisco Ave & Foster Ave,Rockwell St & Eastwood Ave,casual,0.003659322893529073,476802,1366373
+Calumet Ave & 18th St,Wabash Ave & Roosevelt Rd,casual,0.003659322893529073,473352,1366373
+Fort Dearborn Dr & 31st St*,Fort Dearborn Dr & 31st St*,member,0.0036304043204968286,812322,2534153
+Cityfront Plaza Dr & Pioneer Ct,Cityfront Plaza Dr & Pioneer Ct,member,0.0035909434039696894,817647,2534153
+Morgan St & Polk St,May St & Taylor St,casual,0.0035861364356584917,478546,1366373
+Aberdeen St & Randolph St,Green St & Madison St,casual,0.0035861364356584917,483054,1366373
+Ritchie Ct & Banks St,Clark St & Elm St,casual,0.0035129499777879097,491163,1366373
+State St & 33rd St,Rhodes Ave & 32nd St,casual,0.0035129499777879097,488331,1366373
+Ellis Ave & 58th St,Ellis Ave & 53rd St,casual,0.0035129499777879097,488571,1366373
+Clark St & Lake St,Clinton St & Jackson Blvd,casual,0.0035129499777879097,489387,1366373
+Fairbanks Ct & Grand Ave,Fairbanks Ct & Grand Ave,member,0.003472560654388271,843564,2534153
+Shore Dr & 55th St,Ellis Ave & 58th St,casual,0.0034397635199173286,497514,1366373
+Canal St & Madison St,Daley Center Plaza,casual,0.0034397635199173286,496950,1366373
+Clarendon Ave & Gordon Ter,Broadway & Sunnyside Ave,casual,0.0034397635199173286,495822,1366373
+Clinton St & Jackson Blvd,Aberdeen St & Jackson Blvd,casual,0.0034397635199173286,495211,1366373
+Indiana Ave & Roosevelt Rd,Federal St & Polk St,casual,0.0034397635199173286,498125,1366373
+Clarendon Ave & Gordon Ter,Broadway & Sheridan Rd,casual,0.0034397635199173286,494130,1366373
+Larrabee St & Kingsbury St 2,Clinton St & Washington Blvd 2,casual,0.0034397635199173286,496668,1366373
+Cornell Ave & Hyde Park Blvd,Ellis Ave & 58th St,casual,0.0034397635199173286,492438,1366373
+Navy Pier,Adler Planetarium,member,0.0034330997378611314,854491,2534153
+Kingsbury St & Erie St,Clinton St & Lake St,casual,0.0033665770620467475,504805,1366373
+State St & Kinzie St,Clinton St & Washington Blvd,casual,0.0033665770620467475,503057,1366373
+Canal St & Adams St,Clinton St & Lake St,casual,0.0033665770620467475,502597,1366373
+Loomis St & Lexington St,Racine Ave & Congress Pkwy,casual,0.0033665770620467475,502505,1366373
+Clinton St & Washington Blvd,State St & Kinzie St,casual,0.0033665770620467475,502413,1366373
+Ravenswood Ave & Lawrence Ave,Damen Ave & Foster Ave,casual,0.0033665770620467475,501493,1366373
+Ellis Ave & 58th St,Shore Dr & 55th St,casual,0.0033665770620467475,500895,1366373
+Columbus Dr & Randolph St,Navy Pier,member,0.0033147169882797134,875762,2534153
+Wabash Ave & Roosevelt Rd,Michigan Ave & 14th St,casual,0.0032933906041761655,513032,1366373
+Sheridan Rd & Montrose Ave,Pine Grove Ave & Irving Park Rd,casual,0.0032933906041761655,511862,1366373
+State St & Chicago Ave,Wells St & Walton St,casual,0.0032933906041761655,511592,1366373
+Wells St & Polk St,Franklin St & Jackson Blvd,casual,0.0032933906041761655,511367,1366373
+Canal St & Adams St,Green St & Madison St,casual,0.0032933906041761655,510512,1366373
+Elston Ave & Cortland St,Cherry Ave & Blackhawk St,casual,0.0032933906041761655,506732,1366373
+Stetson Ave & South Water St,Stetson Ave & South Water St,member,0.0032752560717525738,885373,2534153
+Millennium Park,Field Museum,member,0.0032357951552254346,897399,2534153
+Broadway & Waveland Ave,Broadway & Sunnyside Ave,casual,0.0032202041463055843,521461,1366373
+Clinton St & Madison St,Clinton St & Tilden St,casual,0.0032202041463055843,520273,1366373
+Shedd Aquarium,Millennium Park,member,0.003196334238698295,903977,2534153
+Rush St & Superior St,Wells St & Huron St,casual,0.0031470176884350032,527309,1366373
+Franklin St & Lake St,Canal St & Madison St,casual,0.0031470176884350032,523783,1366373
+Canal St & Madison St,Wells St & Elm St,casual,0.0031470176884350032,524170,1366373
+May St & Taylor St,Halsted St & Polk St,casual,0.0031470176884350032,526105,1366373
+Kingsbury St & Erie St,State St & Chicago Ave,casual,0.0031470176884350032,526965,1366373
+Clinton St & Washington Blvd,Larrabee St & Kingsbury St,casual,0.0031470176884350032,528685,1366373
+Western Ave & Granville Ave,Peterson/Ridge Metra,casual,0.0031470176884350032,528470,1366373
+Clinton St & Washington Blvd,Rush St & Hubbard St,casual,0.0030738312305644212,531942,1366373
+McClurg Ct & Ohio St,State St & Chicago Ave,casual,0.0030738312305644212,531858,1366373
+Ellis Ave & 58th St,University Ave & 57th St,casual,0.0030738312305644212,530388,1366373
+Clarendon Ave & Gordon Ter,Clarendon Ave & Junior Ter,casual,0.0030738312305644212,530262,1366373
+California Ave & Milwaukee Ave,Kedzie Ave & Palmer Ct,casual,0.0030738312305644212,529758,1366373
+State St & Chicago Ave,Ritchie Ct & Banks St,casual,0.0030738312305644212,536436,1366373
+Wacker Dr & Washington St,Michigan Ave & Washington St,casual,0.0030738312305644212,536856,1366373
+Shedd Aquarium,Dusable Harbor,member,0.003038490572589737,945662,2534153
+Wells St & Elm St,Kingsbury St & Kinzie St 2,casual,0.0030006447726938397,542548,1366373
+Broadway & Waveland Ave,Broadway & Cornelia Ave,casual,0.0030006447726938397,543245,1366373
+Sheridan Rd & Irving Park Rd,Broadway & Sheridan Rd,casual,0.0030006447726938397,543409,1366373
+Lincoln Ave & Winona St,Ravenswood Ave & Lawrence Ave,casual,0.0030006447726938397,545008,1366373
+Wells St & Walton St,State St & Chicago Ave,casual,0.0030006447726938397,543942,1366373
+Navy Pier,Michigan Ave & 8th St,member,0.002959568739535458,960481,2534153
+Mies van der Rohe Way & Chicago Ave,State St & Chicago Ave,casual,0.0029274583148232586,553695,1366373
+Morgan St & Polk St,900 W Harrison St,casual,0.0029274583148232586,551495,1366373
+Canal St & Taylor St,Clinton St & Madison St,casual,0.0029274583148232586,554255,1366373
+Clarendon Ave & Gordon Ter,Sheridan Rd & Montrose Ave,casual,0.0029274583148232586,550175,1366373
+Pine Grove Ave & Waveland Ave,Sheridan Rd & Irving Park Rd,casual,0.0029274583148232586,548655,1366373
+Kingsbury St & Erie St,Kingsbury St & Kinzie St 2,casual,0.002854271856952677,558666,1366373
+Broadway & Cornelia Ave,Broadway & Waveland Ave,casual,0.002854271856952677,559953,1366373
+Desplaines St & Kinzie St,Canal St & Madison St,casual,0.002854271856952677,558588,1366373
+Navy Pier,Clark St & Lincoln Ave,member,0.00284118598995404,989311,2534153
+Canal St & Adams St,Clark St & Lake St,casual,0.0027810853990820955,564453,1366373
+Pine Grove Ave & Irving Park Rd,Halsted St & Roscoe St,casual,0.0027810853990820955,563617,1366373
+Clark St & Drummond Pl,Lakeview Ave & Fullerton Pkwy,casual,0.0027810853990820955,565023,1366373
+Loomis St & Lexington St,May St & Taylor St,casual,0.0027810853990820955,568063,1366373
+Kingsbury St & Erie St,Clinton St & Jackson Blvd,casual,0.0027810853990820955,572433,1366373
+Buckingham Fountain,Buckingham Fountain,member,0.002762264156899761,1007936,2534153
+Ravenswood Ave & Lawrence Ave,Campbell Ave & Montrose Ave,casual,0.002707898941211514,575423,1366373
+Larrabee St & Kingsbury St,Kingsbury St & Kinzie St,casual,0.002707898941211514,574017,1366373
+Broadway & Sheridan Rd,Broadway & Waveland Ave,casual,0.002707898941211514,574831,1366373
+Halsted St & Polk St,May St & Taylor St,casual,0.002707898941211514,579419,1366373
+Lake Park Ave & 35th St,Lake Park Ave & 35th St,member,0.002683342323845482,1021857,2534153
+Adler Planetarium,Navy Pier,member,0.0026438814073183425,1040078,2534153
+Navy Pier,Lincoln Park Conservatory,member,0.0026438814073183425,1032574,2534153
+Pine Grove Ave & Irving Park Rd,Sheridan Rd & Montrose Ave,casual,0.002634712483340933,586518,1366373
+Canal St & Harrison St,Clinton St & Madison St,casual,0.002634712483340933,584286,1366373
+Hermitage Ave & Polk St,Loomis St & Lexington St,casual,0.002634712483340933,586338,1366373
+Field Museum,DuSable Lake Shore Dr & Monroe St,member,0.0025649595742640637,1057524,2534153
+Millennium Park,Adler Planetarium,member,0.0025649595742640637,1061359,2534153
+Clark St & Schiller St,State St & Chicago Ave,casual,0.0025615260254703513,596231,1366373
+Ravenswood Ave & Lawrence Ave,Paulina St & Montrose Ave,casual,0.0025615260254703513,599066,1366373
+Millennium Park,Shedd Aquarium,member,0.0025254986577369245,1069403,2534153
+Ellis Ave & 58th St,Drexel Ave & 60th St,casual,0.0024883395675997697,607490,1366373
+Orleans St & Merchandise Mart Plaza,McClurg Ct & Ohio St,casual,0.0024883395675997697,602900,1366373
+Financial Pl & Ida B Wells Dr,Clinton St & Madison St,casual,0.0024883395675997697,602696,1366373
+Streeter Dr & Grand Ave,Streeter Dr & Grand Ave,member,0.002486037741209785,1083042,2534153
+Millennium Park,Michigan Ave & Oak St,member,0.0024465768246826457,1095392,2534153
+State St & Kinzie St,Rush St & Hubbard St,casual,0.002415153109729188,620933,1366373
+Wilton Ave & Belmont Ave,Racine Ave & Belmont Ave,casual,0.002415153109729188,617996,1366373
+Loomis St & Lexington St,Clinton St & Madison St,casual,0.002415153109729188,614861,1366373
+Sedgwick St & Huron St,Kingsbury St & Kinzie St,casual,0.002415153109729188,615026,1366373
+Clinton St & Washington Blvd,Michigan Ave & Washington St,casual,0.002415153109729188,616511,1366373
+Mies van der Rohe Way & Chestnut St,Michigan Ave & Pearson St,casual,0.002415153109729188,617600,1366373
+Paulina St & Flournoy St,Aberdeen St & Jackson Blvd,casual,0.002415153109729188,611825,1366373
+Clark St & Wrightwood Ave,Lincoln Ave & Fullerton Ave,casual,0.002415153109729188,612122,1366373
+Dusable Harbor,Millennium Park,member,0.0023676549916283665,1122229,2534153
+DuSable Lake Shore Dr & Monroe St,Field Museum,member,0.0023676549916283665,1117429,2534153
+Field Museum,Navy Pier,member,0.0023676549916283665,1115269,2534153
+Canal St & Jackson Blvd,Clinton St & Lake St,casual,0.002341966651858607,629672,1366373
+Sheridan Rd & Montrose Ave,Pine Grove Ave & Waveland Ave,casual,0.002341966651858607,623144,1366373
+Franklin St & Monroe St,State St & Chicago Ave,casual,0.002341966651858607,629096,1366373
+Kingsbury St & Erie St,Sedgwick St & Huron St,casual,0.002341966651858607,628392,1366373
+Lincoln Park Conservatory,Navy Pier,member,0.002328194075101227,1125126,2534153
+Pine Grove Ave & Irving Park Rd,Broadway & Sheridan Rd,casual,0.0022687801939880255,637405,1366373
+Dusable Harbor,Shedd Aquarium,member,0.002209811325519809,1165624,2534153
+Franklin St & Jackson Blvd,Wells St & Polk St,casual,0.002195593736117444,653535,1366373
+Green St & Madison St,Aberdeen St & Randolph St,casual,0.002195593736117444,652215,1366373
+State St & 35th St,Calumet Ave & 33rd St,casual,0.002195593736117444,651765,1366373
+Halsted St & Roosevelt Rd,Clinton St & Jackson Blvd,casual,0.002195593736117444,650745,1366373
+Shedd Aquarium,Michigan Ave & Oak St,member,0.0021703504089926693,1177367,2534153
+Ellis Ave & 58th St,Lake Park Ave & 56th St,casual,0.0021224072782468624,655980,1366373
+Ravenswood Ave & Lawrence Ave,Washtenaw Ave & Lawrence Ave,casual,0.0021224072782468624,658010,1366373
+Milwaukee Ave & The 606,Leavitt St & Armitage Ave,casual,0.0021224072782468624,665579,1366373
+Sedgwick St & Huron St,Kingsbury St & Kinzie St 2,casual,0.0021224072782468624,665927,1366373
+Shedd Aquarium,Michigan Ave & Jackson Blvd,member,0.0020914285759383905,1197410,2534153
+Cityfront Plaza Dr & Pioneer Ct,Navy Pier,member,0.0020519676594112513,1209406,2534153
+Michigan Ave & Oak St,Millennium Park,member,0.0020519676594112513,1219806,2534153
+Dearborn Pkwy & Delaware Pl,Clark St & Chicago Ave,casual,0.002049220820376281,677187,1366373
+Field Museum,Field Museum,member,0.0020125067428841117,1223446,2534153
+Wells St & 19th St,Wells St & 19th St,member,0.0020125067428841117,1230892,2534153
+Racine Ave & Belmont Ave,Broadway & Waveland Ave,casual,0.0019760343625056993,683757,1366373
+Clark St & Lake St,Clinton St & Washington Blvd,casual,0.0019760343625056993,680220,1366373
+DuSable Lake Shore Dr & Monroe St,Michigan Ave & 8th St,member,0.0019335849098298325,1257930,2534153
+Adler Planetarium,Millennium Park,member,0.0019335849098298325,1255823,2534153
+Kingsbury St & Kinzie St 2,Clinton St & Washington Blvd 2,casual,0.001902847904635118,692115,1366373
+Sheffield Ave & Fullerton Ave,Elston Ave & Cortland St,casual,0.001902847904635118,700253,1366373
+Wolcott Ave & Polk St,Hermitage Ave & Polk St,casual,0.001902847904635118,702255,1366373
+Leavitt St & Armitage Ave,Leavitt St & North Ave,casual,0.001902847904635118,702047,1366373
+Ashland Ave & Wellington Ave,Sheffield Ave & Wellington Ave,casual,0.001902847904635118,692375,1366373
+Canal St & Adams St,Larrabee St & Kingsbury St,casual,0.001902847904635118,698433,1366373
+Morgan St & Polk St,Halsted St & Roosevelt Rd,casual,0.001902847904635118,694923,1366373
+Michigan Ave & Ida B Wells Dr,Michigan Ave & Ida B Wells Dr,member,0.001894123993302693,1266702,2534153
+Michigan Ave & Jackson Blvd,Michigan Ave & Jackson Blvd,member,0.001894123993302693,1263006,2534153
+Desplaines St & Kinzie St,Clinton St & Lake St,casual,0.0018296614467645364,705044,1366373
+Larrabee St & Kingsbury St 1,Kingsbury St & Kinzie St 2,casual,0.0018296614467645364,705619,1366373
+Wells St & Evergreen Ave,Wells St & Randolph St,casual,0.0018296614467645364,711869,1366373
+Broadway & Granville Ave,Glenwood Ave & Morse Ave,casual,0.0018296614467645364,715844,1366373
+Michigan Ave & 8th St,Shedd Aquarium,member,0.0018152021602484143,1293388,2534153
+DuSable Lake Shore Dr & Monroe St,Streeter Dr & Grand Ave,member,0.0017757412437212749,1308893,2534153
+Michigan Ave & Washington St,Franklin St & Monroe St,casual,0.0017564749888939548,728823,1366373
+Clinton St & Washington Blvd,Kingsbury St & Kinzie St,casual,0.0017564749888939548,717471,1366373
+Navy Pier,Field Museum,member,0.001696819410666996,1346539,2534153
+Elston Ave & Cortland St,Sheffield Ave & Fullerton Ave,casual,0.0016832885310233737,741232,1366373
+Loomis St & Jackson Blvd,Clinton St & Madison St,casual,0.0016832885310233737,731089,1366373
+Navy Pier,Michigan Ave & Jackson Blvd,member,0.0016573584941398567,1351467,2534153
+Navy Pier,Michigan Ave & Washington St,member,0.0016178975776127173,1372335,2534153
+Navy Pier,Michigan Ave & Lake St,member,0.0016178975776127173,1367005,2534153
+Ashland Ave & 13th St,Loomis St & Lexington St,casual,0.0016101020731527922,759078,1366373
+Kingsbury St & Kinzie St 2,Kingsbury St & Erie St,casual,0.0016101020731527922,749662,1366373
+Michigan Ave & Washington St,Navy Pier,member,0.0015389757445584385,1411114,2534153
+Clinton St & Madison St,Financial Pl & Ida B Wells Dr,casual,0.0015369156152822106,773650,1366373
+Wells St & Huron St,Michigan Ave & Pearson St,casual,0.0015369156152822106,769912,1366373
+Clinton St & Lake St,Desplaines St & Kinzie St,casual,0.0015369156152822106,762415,1366373
+Loomis St & Lexington St,Ashland Ave & 13th St,casual,0.0014637291574116293,784127,1366373
+Clinton St & Jackson Blvd,Larrabee St & Kingsbury St 2,casual,0.0014637291574116293,784107,1366373
+Clinton St & Washington Blvd 2,Kingsbury St & Kinzie St 1,casual,0.0014637291574116293,782147,1366373
+Field Museum,Millennium Park,member,0.00142059299497702,1449308,2534153
+LaSalle St & Jackson Blvd,Columbus Dr & Randolph St,casual,0.0013173562416704664,810241,1366373
+Halsted St & Polk St,Aberdeen St & Jackson Blvd,casual,0.0013173562416704664,821941,1366373
+Dearborn Pkwy & Delaware Pl,Clinton St & Lake St,casual,0.0013173562416704664,813229,1366373
+Shedd Aquarium,Michigan Ave & 8th St,member,0.0013022102453956017,1503167,2534153
+McCormick Place,McCormick Place,member,0.0012627493288684623,1526814,2534153
+Canal St & Monroe St,LaSalle St & Jackson Blvd,casual,0.0012441697837998849,829810,1366373
+Sedgwick St & North Ave,Clybourn Ave & Division St,casual,0.0012441697837998849,841880,1366373
+Clybourn Ave & Division St,Sedgwick St & North Ave,casual,0.0012441697837998849,828960,1366373
+Michigan Ave & Jackson Blvd,Navy Pier,member,0.0012232884123413229,1549433,2534153
+Wabash Ave & Wacker Pl,Wabash Ave & Wacker Pl,member,0.0011838274958141833,1569602,2534153
+Kingsbury St & Kinzie St 2,Clinton St & Jackson Blvd,casual,0.0011709833259293035,845722,1366373
+Rush St & Superior St,Canal St & Adams St,casual,0.001097796868058722,881069,1366373
+Columbus Dr & Randolph St,LaSalle St & Jackson Blvd,casual,0.0010246104101881404,900992,1366373
+McClurg Ct & Ohio St,LaSalle St & Jackson Blvd,casual,0.0010246104101881404,892172,1366373
+Ada St & Washington Blvd,Clinton St & Washington Blvd,casual,0.0010246104101881404,898332,1366373
+Clinton St & Jackson Blvd,New St & Illinois St,casual,0.000951423952317559,901929,1366373
+Clinton St & Madison St,Canal St & Harrison St,casual,0.000951423952317559,911302,1366373
+Burling St & Diversey Pkwy,Wilton Ave & Diversey Pkwy,casual,0.000951423952317559,912706,1366373
+Canal St & Jackson Blvd,Kingsbury St & Erie St,casual,0.000951423952317559,915137,1366373
+State St & Harrison St,Daley Center Plaza,casual,0.000951423952317559,922183,1366373
+Burnham Harbor,Lake Park Ave & 47th St,casual,0.0008782374944469774,943984,1366373
+Hermitage Ave & Polk St,Wolcott Ave & Polk St,casual,0.0008050510365763961,958993,1366373
+Larrabee St & Kingsbury St 2,Clinton St & Jackson Blvd,casual,0.0008050510365763961,963514,1366373
+Clark St & Lake St,State St & Pearson St,casual,0.0007318645787058146,979345,1366373
+Indiana Ave & Roosevelt Rd,Franklin St & Monroe St,casual,0.0006586781208352332,997735,1366373
+Fairbanks Ct & Grand Ave,LaSalle St & Jackson Blvd,casual,0.0006586781208352332,1012126,1366373
+Aberdeen St & Monroe St,Franklin St & Monroe St,casual,0.0005854916629646518,1036234,1366373
+Clark St & Ida B Wells Dr,Michigan Ave & 14th St,casual,0.0005854916629646518,1048794,1366373
+Financial Pl & Ida B Wells Dr,Clinton St & Jackson Blvd,casual,0.0004391187472234887,1109310,1366373
+Kingsbury St & Erie St,LaSalle St & Jackson Blvd,casual,0.00014637291574116294,1288743,1366373
