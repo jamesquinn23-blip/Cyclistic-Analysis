@@ -1,12 +1,19 @@
 # Cyclistic Analysis
 
 Cyclistic Analysis/
+
 ├── README.md
+
 ├── sql/                 # Cleaning, analysis, validation, and SQL documentation
+
 ├── output/              # Tableau-ready CSV outputs
+
 ├── tableau/             # Tableau workbook and supporting files
+
 ├── notes/               # Exploratory analysis notes
+
 ├── data/                # Raw Divvy files; not included in the repository
+
 └── database/            # Local DuckDB files; not included in the repository
 
 ## Project Overview
