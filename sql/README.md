@@ -67,25 +67,15 @@ inspect every result.
   
 
 | Order | Script | Role in the workflow | Main result or check |
-
 | --- | --- | --- | --- |
-
 | 01 | `01_inventory.sql` | Confirms the connected database and inventories the monthly CSV files | 12 input CSV files |
-
 | 02 | `02_trips_raw.sql` | Imports the monthly files into one persistent raw table | `trips_raw`: 5,932,349 rows |
-
 | 03 | `03_duplicate_ids.sql` | Inspects duplicated `ride_id` values before cleaning | 35 duplicated IDs / 70 affected rows |
-
 | 04 | `04_trips_dated.sql` | Applies the analysis-period boundary and derives date/time fields | `trips_dated`: 5,932,247 rows |
-
 | 05 | `05_clean_duplicates.sql` | Removes the redundant copies of duplicated rides | 5,932,212 distinct rides |
-
 | 06 | `06_add_columns.sql` | Adds weekday and ride-duration fields | Derived columns populated for every row |
-
 | 07 | `07_clean_DST.sql` | Corrects durations affected by the fall and spring daylight-saving transitions | Row count unchanged; no remaining negative or uncorrected durations |
-
 | 08 | `08_update_columns_trip_duration_seconds.sql` | Converts corrected intervals to duration in seconds | No null or mismatched duration values |
-
 | 09 | `09_clean_trips_under_60s.sql` | Removes rides at or below 60 seconds and above 24 hours | Final cleaned table: 5,764,481 rides |
 
   
@@ -93,10 +83,6 @@ inspect every result.
 ### Cleaning decisions
 
   
-
-Briefly explain the reasoning behind the important exclusions. One or two
-
-sentences per decision is enough.
 
   
 
@@ -121,11 +107,8 @@ sentences per decision is enough.
   
 
 | Script | Purpose | Exported Tableau CSV |
-
 | --- | --- | --- |
-
 | `10_weekday_aggregates.sql` | Compares weekday ride counts, rider-type composition, and each weekday's share of annual rides | `output/01_days_and_times/weekday_aggregates.csv` |
-
 | `12_hourly_timing.sql` | Compares average ride volume by weekday, start hour, and rider type | `output/02_ride_duration/hourly_ride_volume.csv` |
 
   
@@ -138,11 +121,8 @@ Daily averages were used for hourly comparisons to normalize for the unequal num
   
 
 | Script | Purpose | Exported Tableau CSV |
-
 | --- | --- | --- |
-
 | `13_duration_bands.sql` | Compares broad duration distributions by weekday and rider type | `output/02_ride_duration/duration_band_volume_by_weekday.csv` |
-
 | `13.2_short_duration_bands.sql` | Examines the under-one-hour distribution in narrower duration bands | `output/02_ride_duration/short_duration_bands_x_ridertype_x_weekday.csv` |
 
   
@@ -168,11 +148,8 @@ rides. Therefore, 15 minutes was selected as the summary boundary in Tableau.
   
 
 | Script | Purpose | Exported Tableau CSV |
-
 | --- | --- | --- |
-
 | `endpoint_roles.sql` | Identifies the named, mappable stations contributing to approximately 10% of starts or ends within each rider-type/endpoint group | `output/03_endpoint_roles/endpoint_roles.csv` |
-
 | `null_start_stations.sql` | Diagnoses missing start-station names overall and by rider type | Diagnostic only; no production Tableau export |
 
   
@@ -192,17 +169,11 @@ treated as different routes.
   
 
 | Script | Purpose | Exported Tableau CSV |
-
 | --- | --- | --- |
-
 | `14.1_qualifying_directed_pair_shares.sql` | Compares both rider types across the union of pairs contributing to either rider type's first 10% of named-endpoint rides | `output/05_directed_pairs/qualifying_directed_pair_shares_by_rider_type.csv` |
-
 | `14.2_directed_pair_count_to_10_percent.sql` | Counts the highest-ranked pairs required to reach 10% within each rider type | `output/05_directed_pairs/directed_pair_rider_type_share.csv` |
-
 | `14.3_ranked_directed_pairs_by_rider_type.sql` | Produces ranks 1–650 and cumulative ride share for the concentration curve | `output/05_directed_pairs/directed_pairs_ranked_by_ride_type.csv` |
-
 | `14.4_top_ten_directed_pairs_by_rider_type.sql` | Compares both rider types across the combined set of their top-ten pairs | `output/05_directed_pairs/top_ten_directed_pairs_by_rider_type.csv` |
-
 | `14.5_same_station_ride_share.sql` | Compares the within-cohort prevalence of rides beginning and ending at the same named station | `output/05_directed_pairs/same_station_rides_share.csv` |
 
   

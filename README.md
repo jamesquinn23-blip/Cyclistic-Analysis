@@ -12,7 +12,7 @@ Cyclistic Analysis/
 
 ├── data/                # Raw Divvy files; not included in the repository
 
-├── Cyclistic Presentation Workbook(extracted data).twbx  # Extracted data portable workbook
+├── Cyclistic Rider Behavior Analysis.twbx  # Extracted data portable workbook
 
 └── database/            # Local DuckDB files; not included in the repository
 
@@ -49,7 +49,7 @@ July 1st 2025 - June 30th 2026
 
 In order to provide insights into rides I analyzed 12 months of contiguous ride data from "Cyclistic", starting 00:00:00 July 1st 2025 ending 11:59:59 June 30th 2026, 5,932,349 rides before cleaning.
 
-5,764,481 rides remain after removing duplicate rides, rides determined to be non-representative of real bike-ride behavior; rides 60 seconds or less and rides over 24 hours, as well as applying the analysis-period boundary, removing the rides that ended on July 1st 2025 but began on June 30th 2025.
+5,764,481 rides remain after removing duplicate rides, rides determined to be non-representative of real bike-ride behavior (rides 60 seconds or less and rides over 24 hours), as well as applying the analysis-period boundary, removing the rides that ended on July 1st 2025 but began on June 30th 2025.
 
 Additionally, because the source timestamps did not record time-zone offsets, the November 2025 and March 2026 daylight-saving transitions distorted some calculated ride durations. On November 2, 2025, 29 rides had an `ended_at` timestamp earlier than `started_at`; one hour was added to their derived durations. On March 8, 2026 40 rides crossing the spring-forward transition had durations inflated by one hour, so one hour was subtracted. The original timestamps were retained for source preservation; only the derived duration fields were corrected.
 
@@ -59,14 +59,14 @@ The business question at hand is this: How does annual Member rider behavior dif
 
 In order to dig into this question, I further broke it down:
 
-  1. How do Member and Casual rides differ by weekday?
+  1. How do Member and Casual rides differ by weekday and within-weekday start time?
   2. How do Member and Casual rides differ by ride duration?
   3. How do Member and Casual rides differ by start- and end-station?
   4. How do Member and Casual rides differ by directed pair?
 
 In answering these questions, I believe I have uncovered some genuine differences in behavior by rider type.
 
-### **Question 1** - How do Member and Casual rides differ by weekday?
+### **Question 1** - How do Member and Casual rides differ by weekday and within-weekday start time?
 
 Member rides have their highest concentration Monday-Friday, reaching daily peaks in the 17:00 hour each weekday, while Casual rides have their highest concentration of frequency on Saturday and Sunday, with ride starts peaking in the 15:00 hour.
 
@@ -78,7 +78,7 @@ Member and Casual rides have predominantly similar ride duration patterns: The m
 
 However, within that less-than-one-hour duration band, I found that Casual rides had a greater within-rider-type proportion of rides lasting 15+ minutes when compared with Member rides.
 
-From this we can conclude the Member rides tend to be shorter than 15 minutes more often than Casual rides. Does this imply Casual rides are more leisurely? We don't know.
+From this we can conclude that Member rides tend to be shorter than 15 minutes more often than Casual rides. Does this imply Casual rides are more leisurely? We don't know.
 
 ### **Question 3** - How do Member and Casual rides differ by start- and end-station?
 
@@ -90,11 +90,11 @@ Additionally, while Member start- and end-stations were predominantly found in d
 
 First, a definition. 
 
-The term "*directed pair*" was chosen because "*route*"  is too precise for what the data had to offer and "*trip*" is inaccurate here because a directed pair is an aggregation of multiple trips. Directionality was preserved (i.e a trip from Navy Pier to Millennium Park vs a trip from Millennium Park to Navy Pier being differentiated) because each direction potentially represents distinct rider behavior, and the purpose of the analysis was to find differences between Member and Casual rider behavior.
+The term "*directed pair*" was chosen because "*route*"  is too precise for what the data had to offer and "*trip*" is inaccurate here because a directed pair is an aggregation of multiple trips. Directionality was preserved (i.e., a trip from Navy Pier to Millennium Park vs a trip from Millennium Park to Navy Pier being differentiated) because each direction potentially represents distinct rider behavior, and the purpose of the analysis was to find differences between Member and Casual rider behavior.
 
 Again, we find meaningful difference in the concentration of directed pairs just like we did with unique start- and end-stations: It took Casual riders 166 directed pairs to make up approximately 10% of Casual rides, where Members took 650, equaling 3.9 times as many directed pairs when compared with Casual riders.
 
-In the directed pair analysis, we again find that the most common directed pairs for Casual riders involve the Chicago waterfront, while Members directed pairs are spread closer to downtown centers of business, education and transportation, as well as urban living.
+In the directed pair analysis, we again find that the most common directed pairs for Casual riders involve the Chicago waterfront, while Members' directed pairs are spread closer to downtown centers of business, education and transportation, as well as urban living.
 
 Additionally, the data show us a distinctive finding: Member-leading pairs receive meaningful Casual use (i.e. the busiest Member directed pair had .12% of Member rides with both station names intact, and .08% of Casual rides with both station names intact while the busiest Casual directed pair had .64% of Casual rides with both station names intact and .03% of Member rides with both station names intact), while Casual-leading pairs receive comparatively little Member use.
 
@@ -102,15 +102,18 @@ Further, within the directed pair analysis, I looked at same-station rides, or r
 
 ## Recommendations
 
-From these data, I recommend we begin a measured pilot using geotargeted campaigns and digital out-of-home advertising as well as station signage (where available) where casual ride activity is concentrated that detail the benefits of an annual Membership.
+From these data, I recommend beginning a measured pilot using geotargeted campaigns, digital out-of-home advertising, and station signage where available in areas with concentrated casual ride activity. The campaign messaging should explain the benefits of annual membership and how it could improve their experience as a rider.
 
-Further, to increase the return-on-investment of these types of campaigns, we should expand ride data to include information such as:
+Further, to measure and improve the return on investment of these types of campaigns, we should expand ride data to include information such as:
+
 1. A privacy-preserving persistent rider identifier
 2. Casual pass type
 3. Local versus visitor status
 4. Repeat-use frequency
 5. Promotion exposure
 6. Membership conversion outcome
+
+Evaluating the pilot would *require* privacy-preserving exposure and conversion tracking that is not available in the current trip data. With those measures in place, effectiveness could be assessed by comparing membership conversion rates between exposed and control groups.
 
 
 ## Limitations
